@@ -8,9 +8,9 @@
 
 include 'elements/head.php'; ?>
 
-    <!-- Document Title
-    ============================================= -->
-    <title>Over ons - NonProfit Demo | Canvas</title>
+<!-- Document Title
+============================================= -->
+<title>About - NonProfit Demo | Canvas</title>
 
 </head>
 
@@ -20,8 +20,8 @@ include 'elements/head.php'; ?>
 ============================================= -->
 <div id="wrapper" class="clearfix">
 
-                    <!--Include navigation-->
-                    <?php include 'elements/nav.php';?>
+    <!--Include navigation-->
+    <?php include 'elements/nav.php';?>
 
     <!-- Slider
     ============================================= -->

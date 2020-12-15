@@ -32,13 +32,20 @@
 
             <div class="row justify-content-between align-items-center">
                 <div class="col-md-6">
-                    Copyrights &copy; 2020 All Rights Reserved by Canvas Inc.<br>
-                    <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+                    <div class="copyright-links">
+                        <span class='copyright'>Gemaakt met veel ❤ en ☕ door <a href='https://3dynamisch.nl/' target='_blank'>
+                            3Dynamisch © <?= date('Y') ?></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href='https://www.instagram.com/3dynamisch/' target='_blank'>
+                            <i class='icon-instagram' style='font-size: 18px;'></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href='https://nl-nl.facebook.com/3dynamisch/' target='_blank'><i class='icon-facebook' style='font-size: 18px;'>
+                            </i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://nl.linkedin.com/company/3dynamisch' target='_blank'>
+                            <i class='icon-linkedin' style='font-size: 18px;'></i></a> </span>
+                    </div>
                 </div>
 
                 <div class="col-md-6 d-md-flex flex-md-column align-items-md-end mt-4 mt-md-0">
                     <div class="copyrights-menu copyright-links clearfix">
-                        <a href="#">About</a>/<a href="#">Features</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+                        <a href="over-ons.php">Over Ons</a>/<a href="advies.php">Advies</a>/<a href="services.php">Services</a>/<a href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>
