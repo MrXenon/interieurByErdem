@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="css/calendar.css" type="text/css" />
 
     <!-- NonProfit Demo Specific Stylesheet -->
-    <link rel="stylesheet" href="css/colors.php?color=C6C09C" type="text/css" /> <!-- Theme Color -->
+    <link rel="stylesheet" href="css/colors.php?color=D7D4C8" type="text/css" /> <!-- Theme Color -->
     <link rel="stylesheet" href="demos/nonprofit/css/fonts.css" type="text/css" />
     <link rel="stylesheet" href="demos/nonprofit/nonprofit.css" type="text/css" />
     <!-- / -->

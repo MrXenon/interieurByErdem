@@ -5,4 +5,10 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
-
+/* Root Settings - changed color of theme
+-----------------------------------------------------------------*/
+:root {
+    --themecolor:  #D7D4C8 !important;
+    --themecolorrgb: 198,192,156;
+    --header-height: 70px;
+}
