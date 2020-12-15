@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_64x64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/floating-contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/footer-scripts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/head.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/logo/Interieur_By_erdem_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements/nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
-    </list>
+    <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="Initial commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements/nav.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+            <state relative-caret-position="291">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -113,6 +101,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\interieurByErdem\elements" />
       <recent name="C:\wamp64\www\interieurByErdem\elements\logo" />
       <recent name="C:\wamp64\www\interieurByErdem\elements\favicon" />
     </key>
@@ -139,15 +128,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608025007544</updated>
-      <workItem from="1608025008723" duration="2602000" />
+      <workItem from="1608025008723" duration="3193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2602000" />
+    <option name="totallyTimeSpent" value="3193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -242,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+        <state relative-caret-position="291">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>
