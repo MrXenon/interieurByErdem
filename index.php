@@ -41,7 +41,7 @@ include 'elements/head.php'; ?>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('demos/nonprofit/images/slider/1.jpg') no-repeat center center; background-size: cover;"></div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/Raamsticker.jpg') no-repeat center center; background-size: cover;"></div>
                     </div>
                     <div class="swiper-slide dark">
                         <div class="container">
@@ -52,7 +52,7 @@ include 'elements/head.php'; ?>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('demos/nonprofit/images/slider/2.jpg') no-repeat center center; background-size: cover;"></div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,.8)), url('elements/slider/13.jpg') no-repeat center center; background-size: cover;"></div>
                     </div>
                 </div>
                 <div class="swiper-navs">

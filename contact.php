@@ -176,6 +176,7 @@ include 'elements/head.php'; ?>
 
             </div>
         </div>
+
     </section><!-- #content end -->
 
     <?php

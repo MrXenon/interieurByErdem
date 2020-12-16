@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="Home pagina ingedeeld, alleen slider afbeelding &amp; logo content nodig. Footer contact &amp; reviews opgezet.">
+    <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/elements/slider/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elements/slider/Raamsticker.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +26,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="213" column="95" selection-start-line="213" selection-start-column="95" selection-end-line="213" selection-end-column="95" />
+            <state relative-caret-position="663">
+              <caret line="54" column="147" selection-start-line="54" selection-start-column="147" selection-end-line="54" selection-end-column="147" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -45,6 +48,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="170" column="102" selection-start-line="170" selection-start-column="102" selection-end-line="170" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="749">
+                <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -55,6 +79,7 @@
       <find>googleMapsAPI</find>
       <find>heading</find>
       <find>Our Charity</find>
+      <find>Our Missi</find>
     </findStrings>
     <replaceStrings>
       <replace>index.php</replace>
@@ -86,10 +111,11 @@
         <option value="$PROJECT_DIR$/elements/nav.php" />
         <option value="$PROJECT_DIR$/include/form.php" />
         <option value="$PROJECT_DIR$/demos/nonprofit/css/fonts.css" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/elements/footer.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
@@ -114,13 +140,18 @@
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
               <item name="elements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
               <item name="elements" type="462c0819:PsiDirectoryNode" />
-              <item name="vg-images" type="462c0819:PsiDirectoryNode" />
+              <item name="slider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,6 +167,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\interieurByErdem\elements\slider" />
       <recent name="C:\wamp64\www\interieurByErdem\elements" />
       <recent name="C:\wamp64\www\interieurByErdem\elements\logo" />
       <recent name="C:\wamp64\www\interieurByErdem\elements\favicon" />
@@ -164,7 +196,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608025007544</updated>
       <workItem from="1608025008723" duration="8394000" />
-      <workItem from="1608107117831" duration="15995000" />
+      <workItem from="1608107117831" duration="21804000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608028350699</created>
@@ -201,11 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608134828874</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Home pagina ingedeeld, alleen slider afbeelding &amp; logo content nodig. Footer contact &amp; reviews opgezet.">
+      <created>1608135257567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608135257567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24389000" />
+    <option name="totallyTimeSpent" value="30198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -391,13 +430,6 @@
         <state relative-caret-position="-969" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="128" column="43" lean-forward="true" selection-start-line="128" selection-start-column="43" selection-end-line="128" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/over-ons.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -433,11 +465,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="213" column="95" selection-start-line="213" selection-start-column="95" selection-end-line="213" selection-end-column="95" />
+        <state relative-caret-position="663">
+          <caret line="54" column="147" selection-start-line="54" selection-start-column="147" selection-end-line="54" selection-end-column="147" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -449,6 +480,26 @@
             <element signature="n#style#0;n#div#4;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#4;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements/slider/13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="749">
+            <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="170" column="102" selection-start-line="170" selection-start-column="102" selection-end-line="170" selection-end-column="102" />
         </state>
       </provider>
     </entry>
