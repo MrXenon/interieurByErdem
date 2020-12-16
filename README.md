@@ -33,9 +33,9 @@
 
 <h4>Algemene informatie</h4>
 <ul>
-<li>Projectnaam: Klusbedrijf Osman</li>
-<li>Sitenaam: https://klussbedrijfosman.nl</li>
-<li>Email: info@klussbedrijfosman.nl</li>
+<li>Projectnaam: Interieur By Erdem</li>
+<li>Sitenaam: https://interieirbyerdem.nl</li>
+<li>Email: info@interieurbyerdem.nl</li>
 </ul>
 
 
