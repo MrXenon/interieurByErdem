@@ -2224,7 +2224,7 @@ var SEMICOLON = SEMICOLON || {};
 		$topCart = $('#top-cart'),
 		$topSocialEl = $('#top-social').find('li'),
 		$goToTopEl = $('#gotoTop'),
-		googleMapsAPI = 'YOUR-API-KEY',
+		googleMapsAPI = 'AIzaSyBmFz_AJmQ6h9uaJGrZEQKUTMQc5QAUyNQ',
 		xScrollPosition,
 		yScrollPosition,
 		sliderParallaxEl = document.querySelector('.slider-parallax'),

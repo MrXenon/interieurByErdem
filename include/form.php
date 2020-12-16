@@ -27,8 +27,8 @@ require 'phpmailer/src/SMTP.php';
 $toemails = array();
 
 $toemails[] = array(
-				'email' => 'your-email@website.com', // Your Email Address
-				'name' => 'Your Name' // Your Name
+				'email' => 'info@interieurbyerdem.nl', // Your Email Address
+				'name' => 'Interieur By Erdem' // Your Name
 			);
 
 
@@ -37,8 +37,8 @@ $toemails[] = array(
 ---------------------------------------------------*/
 
 $fromemail = array(
-				'email' => 'no-reply@website.com', // Company's Email Address (preferably currently used Domain Name)
-				'name' => 'Company Name' // Company Name
+				'email' => 'no-reply@interieurbyerdem.nl', // Company's Email Address (preferably currently used Domain Name)
+				'name' => 'Interieur By Erdem' // Company Name
 			);
 
 
@@ -67,12 +67,12 @@ $mail = new PHPMailer();
 ---------------------------------------------------*/
 
 $message = array(
-	'success'			=> 'We have <strong>successfully</strong> received your Message and will get Back to you as soon as possible.',
-	'error'				=> 'Email <strong>could not</strong> be sent due to some Unexpected Error. Please Try Again later.',
-	'error_bot'			=> 'Bot Detected! Form could not be processed! Please Try Again!',
-	'error_unexpected'	=> 'An <strong>unexpected error</strong> occured. Please Try Again later.',
-	'recaptcha_invalid'	=> 'Captcha not Validated! Please Try Again!',
-	'recaptcha_error'	=> 'Captcha not Submitted! Please Try Again.'
+	'success'			=> 'Wij hebben uw bericht <strong>met succes</strong> ontvangen en wij zullen zo snel mogelijk contact met u opnemen.',
+	'error'				=> 'E-mail <strong>kon niet</strong> worden verzonden, probeer het later nog eens.',
+	'error_bot'			=> 'Bot gedetecteerd, probeer het later nog eens!',
+	'error_unexpected'	=> 'Er is een <strong>onverwachte error</strong> ontstaan. Probeer het later nog eens.',
+	'recaptcha_invalid'	=> 'Captcha is niet gevalideerd, probeer het later nog eens!',
+	'recaptcha_error'	=> 'Captcha is niet verstuurd, probeer het later nog eens.'
 );
 
 

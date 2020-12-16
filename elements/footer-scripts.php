@@ -15,6 +15,7 @@
 ============================================= -->
 <script src="js/jquery.js"></script>
 <script src="js/plugins.min.js"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyBmFz_AJmQ6h9uaJGrZEQKUTMQc5QAUyNQ"></script>
 <script src="js/jquery.calendario.js"></script>
 <script src="demos/nonprofit/js/events.js"></script>
 

@@ -43,7 +43,7 @@
         <li class="menu-item"><a class="menu-link" href="materialen.php"><div>Materialen/Producten </div></a></li>
         <li class="menu-item"><a class="menu-link" href="services.php"><div>Services</div></a></li>
         <li class="menu-item"><a class="menu-link" href="over-ons.php"><div>Over ons</div></a></li>
-        <li class="menu-item"><a class="menu-link btn-contact" href="#"><div>Contact</div></a></li>
+        <li class="menu-item"><a class="menu-link" href="contact.php"><div>Contact</div></a></li>
     </ul>
 
 </nav><!-- #primary-menu end -->

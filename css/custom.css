@@ -12,3 +12,9 @@
     --themecolorrgb: 198,192,156;
     --header-height: 70px;
 }
+textarea{
+    resize:none !important;
+}
+blockquote{
+    border-color: #48555F !important;
+}

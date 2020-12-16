@@ -1,16 +1,12 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: black
- * Date: 15-12-2020
- * Time: 11:06
- */
-
 include 'elements/head.php'; ?>
 
-<!-- Document Title
-============================================= -->
-<title>About - NonProfit Demo | Canvas</title>
+
+
+
+    <!-- Document Title
+    ============================================= -->
+    <title>Contact - NonProfit Demo | Canvas</title>
 
 </head>
 
@@ -19,326 +15,166 @@ include 'elements/head.php'; ?>
 <!-- Document Wrapper
 ============================================= -->
 <div id="wrapper" class="clearfix">
-
     <!--Include navigation-->
     <?php include 'elements/nav.php';?>
-
-    <!-- Slider
-    ============================================= -->
-    <section id="slider" class="slider-element swiper_wrapper min-vh-75 justify-content-start dark" style="background: #063639">
-
-        <div class="container">
-            <div class="row h-100 align-items-center justify-content-between">
-                <div class="col-lg-4 col-md-6 py-5 py-md-0">
-                    <div class="heading-block border-bottom-0 mb-4">
-                        <h5 class="mb-1 text-uppercase ls2 color op-06">About Us</h5>
-                        <h2 class="mb-4 nott">Unconditional Help</h2>
-                    </div>
-                    <div class="svg-line bottommargin-sm">
-                        <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
-                    </div>
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus dolor quod voluptatum perferendis.</p>
-                    <a href="demo-nonprofit-causes-single.html" class="button button-rounded button-xlarge bg-color button-light text-dark shadow nott ls0 m-0">Donate Now</a>
-
-                </div>
-                <div class="col-lg-8 col-md-6">
-                    <img src="demos/nonprofit/images/about/1.png" alt="Image" class="full-width-img">
-                </div>
-            </div>
-        </div>
-
-    </section>
 
     <!-- Content
     ============================================= -->
     <section id="content">
-        <div class="content-wrap py-0 overflow-visible">
+        <div class="content-wrap">
+            <div class="container clearfix">
 
-            <div class="container">
+                <div class="row align-items-stretch col-mb-50 mb-0">
+                    <!-- Contact Form
+                    ============================================= -->
+                    <div class="col-lg-6">
 
-                <div class="slider-feature">
-                    <div class="row gutter-10 justify-content-center">
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
-                                <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/breakfast.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="11265" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Meals Surved</h5>
-                                </div>
-                            </div>
+                        <div class="">
+                            <p>
+                                Bent u ook benieuwd naar wat wij voor uw wooncomfort kunnen betekenen? Neem gerust contact met ons op en vraag naar de mogelijkheden voor advies, decoratie en/of een vrijblijvende offerte!
+                            </p>
+                            <blockquote>
+                                Interieur By Erdem levert maatwerk.
+                            </blockquote>
                         </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
-                                <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/volunteers.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="2500" data-refresh-interval="50" data-speed="2200" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Volunteers</h5>
-                                </div>
-                            </div>
+                        <div class="fancy-title title-border">
+                            <h3>Neem contact op</h3>
                         </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
-                                <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/educated.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="17408" data-refresh-interval="25" data-speed="2300" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Person Educated</h5>
+
+                        <div class="form-widget">
+
+                            <div class="form-result"></div>
+
+                            <form class="mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
+
+                                <div class="form-process">
+                                    <div class="css3-spinner">
+                                        <div class="css3-spinner-scaler"></div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
-                                <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/shelter.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="150" data-to="13413" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Got Shelter</h5>
+
+                                <div class="row">
+                                    <div class="col-md-4 form-group">
+                                        <label for="template-contactform-name">Naam <small>*</small></label>
+                                        <input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" />
+                                    </div>
+
+                                    <div class="col-md-4 form-group">
+                                        <label for="template-contactform-email">E-mail <small>*</small></label>
+                                        <input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" />
+                                    </div>
+
+                                    <div class="col-md-4 form-group">
+                                        <label for="template-contactform-phone">Telefoonnummer</label>
+                                        <input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control" />
+                                    </div>
+
+                                    <div class="w-100"></div>
+
+                                    <div class="col-md-8 form-group">
+                                        <label for="template-contactform-subject">Onderwerp <small>*</small></label>
+                                        <input type="text" id="template-contactform-subject" name="subject" value="" class="required sm-form-control" />
+                                    </div>
+
+                                    <div class="col-md-4 form-group">
+                                        <label for="template-contactform-service">Diensten</label>
+                                        <select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
+                                            <option value="">-- Selecteer --</option>
+                                            <option value="Kleur advies">Kleur advies</option>
+                                            <option value="Advies plaatsing">Advies plaatsing</option>
+                                            <option value="Materialen / Producten">Materialen / Producten</option>
+                                            <option value="Services">Services</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="w-100"></div>
+
+                                    <div class="col-12 form-group">
+                                        <label for="template-contactform-message">Bericht <small>*</small></label>
+                                        <textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"></textarea>
+                                    </div>
+
+                                    <div class="col-12 form-group d-none">
+                                        <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
+                                    </div>
+
+                                    <div class="col-12 form-group">
+
+                                        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                                        <div class="g-recaptcha" data-sitekey="6LfijgUTAAAAACPt-XfRbQszAKAJY0yZDjjhMUQT"></div>
+
+                                    </div>
+
+                                    <div class="col-12 form-group">
+                                        <button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit" class="button button-3d m-0">Bericht versturen</button>
+                                    </div>
                                 </div>
-                            </div>
+
+                                <input type="hidden" name="prefix" value="template-contactform-">
+
+                            </form>
                         </div>
-                    </div>
+
+                    </div><!-- Contact Form End -->
+
+                    <!-- Google Map
+                    ============================================= -->
+                    <div class="col-lg-6 min-vh-50">
+                        <div class="gmap h-100" data-address="Langeweg 43,Breskens, Nederland" data-zoom="14" data-markers='[{address: "Langeweg 43,Breskens, Nederland", html: "<div class=\"p-2\" style=\"width: 300px;\"><h4 class=\"mb-2\">Hi! We are <span>Envato!</span></h4><p class=\"mb-0\" style=\"font-size:1rem;\">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day.</p></div>", icon:{ image: "images/icons/map-icon-red.png", iconsize: [32, 39], iconanchor: [32,39] } }]'></div>
+                    </div><!-- Google Map End -->
                 </div>
 
-            </div>
-
-            <div class="clear"></div>
-
-            <div class="section m-0 bg-transparent pt-0">
-                <div class="container clearfix">
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <h3 class="mb-2">Our Mission <span>&amp;</span> Goals</h3>
-                            <div class="svg-line mb-2 clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
+                <!-- Contact Info
+                ============================================= -->
+                <div class="row col-mb-50">
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="feature-box fbox-center fbox-bg fbox-plain">
+                            <div class="fbox-icon">
+                                <a href="#"><i class="icon-map-marker2"></i></a>
                             </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam deleniti veritatis nostrum, temporibus vero maxime quisquam quaerat doloremque fugit nesciunt.</p>
-                            <div class="row mission-goals gutter-30 mb-0">
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/home.svg" alt="Featured Icon 1" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Homeless Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/health.svg" alt="Featured Icon 2" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Health Charities.</a></h3>
-                                            <p>Continually restore adaptive paradigms after "outside.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/education.svg" alt="Featured Icon 3" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Education Charities.</a></h3>
-                                            <p>Quickly benchmark client-centered vortals without cutting.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/animal.svg" alt="Featured Icon 4" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Animal Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/environmental.svg" alt="Featured Icon 5" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Eco Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/food.svg" alt="Featured Icon 6" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Food Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 mt-5 mt-lg-0">
-                            <h3 class="mb-2">Latest Videos</h3>
-                            <div class="svg-line mb-2 clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
-                            </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit excepturi ipsa!</p>
-                            <div class="clear"></div>
-                            <a href="https://www.youtube.com/watch?v=VqmFKnHG5q8" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color mt-3 clearfix" style="background: linear-gradient(rgba(0,0,0,.05), rgba(0,0,0,.01)), url('demos/nonprofit/images/others/5.jpg') no-repeat center center / cover; height: 300px"><i class="icon-play"></i></a>
-                            <div class="row mt-4" data-lightbox="gallery">
-                                <div class="col-sm-6">
-                                    <a href="https://www.youtube.com/watch?v=hc7iuc5KZ8Y" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color left" style="background: url('demos/nonprofit/images/others/4.jpg') no-repeat center center / cover; height: 140px"><i class="icon-play icon-small"></i></a>
-                                </div>
-
-                                <div class="col-sm-6 mt-4 mt-sm-0">
-                                    <a href="https://www.youtube.com/watch?v=VqmFKnHG5q8" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color left" style="background: url('demos/nonprofit/images/others/2.jpg') no-repeat center center / cover; height: 140px"><i class="icon-play icon-small"></i></a>
-                                </div>
+                            <div class="fbox-content">
+                                <h3>Onze locatie
+                                    <a target="_blank" href="https://www.google.nl/maps/place/Langeweg+43,+4511+GB+Breskens/@51.3960546,3.551225,15.5z/data=!4m5!3m4!1s0x47c4993dbbe3f487:0xd68ec4d9a4763af2!8m2!3d51.3965715!4d3.5513147">
+                                        <span class="subtitle">Langeweg 43, <br>4511 GB Breskens</span></a></h3>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <div class="section mt-3" style="background: url('demos/nonprofit/images/others/section-bg.jpg') no-repeat center center / cover; padding: 80px 0;">
-                <div class="container clearfix">
-                    <div class="row justify-content-center mb-5">
-                        <div class="col-md-7 center">
-                            <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Happy Volunteers</h2>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="feature-box fbox-center fbox-bg fbox-plain">
+                            <div class="fbox-icon">
+                                <a href="#"><i class="icon-phone3"></i></a>
                             </div>
-                            <div class="svg-line bottommargin-sm clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
-                            </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus, dolor quod voluptatum perferendis ullam. Odio sequi at dolore consequatur ad, odit expedita tenetur.</p>
-                        </div>
-                    </div>
-                    <div class="row justify-content-around">
-                        <div class="col-lg-2 col-md-4 col-6">
-                            <div class="team overflow-hidden">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/1.jpg" alt="Penny Tool">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Penny Tool<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/6.jpg" alt="Piff Jenkins">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Piff Jenkins<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-4">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/2.jpg" alt="Rodney Artich">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Rodney Artich<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/7.jpg" alt="Weir Doe">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Weir Doe<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/3.jpg" alt="Jackson Pot">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Jackson Pot<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/8.jpg" alt="Phillip Anthropy ">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Phillip Anthropy <small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-5">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/4.jpg" alt="Eric Widget">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Eric Widget<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/9.jpg" alt="Giles Posture">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Giles Posture<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-1">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/5.jpg" alt="Gunther Beard">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Gunther Beard<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team full-border imagescalein mt-5">
-                                <a href="#" class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/10.jpg" alt="Apply Volunteer" class="rounded-0">
-                                </a>
+                            <div class="fbox-content">
+                                <h3>Bel met ons<a href="tel:+31117308069"><span class="subtitle">+31<br>(0) 117 308 069</span></a></h3>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <div class="section bg-transparent">
-                <div class="container clearfix">
-                    <div class="row justify-content-center">
-                        <div class="col-md-7 center">
-                            <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Who Work With Us</h2>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="feature-box fbox-center fbox-bg fbox-plain">
+                            <div class="fbox-icon">
+                                <a href="#"><i class="icon-mail"></i></a>
                             </div>
-                            <div class="svg-line bottommargin-sm clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="15">
+                            <div class="fbox-content">
+                                <h3>Mail met ons<span class="subtitle"><a href="mailto:info@interieurbyerdem.nl">info@<br>interieurbyerdem.nl</a></span></h3>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus, dolor quod voluptatum perferendis ullam. Odio sequi at dolore consequatur ad, odit expedita tenetur.</p>
                         </div>
-                        <div class="clear"></div>
-                        <div class="col-md-11 my-5">
-                            <ul class="clients-grid grid-2 grid-sm-3 grid-md-5 mb-0">
-                                <li class="grid-item"><a href="#"><img src="images/clients/1.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/2.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/3.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/4.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/5.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/6.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/7.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/8.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/9.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></li>
-                            </ul>
-                        </div>
-                        <h5 class="font-weight-normal text-black-50 mb-0">If you want to work with for nonprofit? <a href="#"><u>Send your Details</u></a>.</h5>
                     </div>
-                </div>
-            </div>
 
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="feature-box fbox-center fbox-bg fbox-plain">
+                            <div class="fbox-icon">
+                                <a href="#"><i class="icon-twitter2"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3>Follow on Twitter<span class="subtitle">2.3M Followers</span></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- Contact Info End -->
+
+            </div>
         </div>
     </section><!-- #content end -->
 
@@ -354,7 +190,5 @@ include 'elements/head.php'; ?>
 <?php
 include 'elements/footer-scripts.php';
 ?>
-
-
 </body>
 </html>

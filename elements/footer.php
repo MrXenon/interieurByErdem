@@ -9,49 +9,197 @@
 ?>
 <!-- Footer
 ============================================= -->
-<footer id="footer" style="background-color: #002D40;">
-
+<footer id="footer" class="dark">
     <div class="container">
-
         <!-- Footer Widgets
         ============================================= -->
-        <div class="footer-widgets-wrap dark clearfix" style="background: radial-gradient(rgba(0,45,64,.5), rgba(0,45,64,.1), rgba(0,45,64,.5)), url('demos/nonprofit/images/others/footer.jpg') repeat center center / cover;  padding: 150px 0">
-            <div class="mx-auto center" style="max-width: 700px;">
-                <h2 class="display-2 font-weight-bold text-white mb-0 ls1 font-secondary mb-4"><i class="icon-heart d-block mb-3"></i>Help the Homeless &amp; Hungry People.</h2>
-                <a href="demo-nonprofit-causes-single.html" class="button button-rounded button-xlarge button-white bg-white button-light text-dark shadow nott ls0 ml-0 mt-5">Donate Now</a>
-            </div>
-        </div>
+        <div class="footer-widgets-wrap">
 
+            <div class="row col-mb-50">
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="widget clearfix">
+
+                        <img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
+
+                        <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+                            <address>
+                                <strong>Locatie:</strong><br>
+                                <a target="_blank" href="https://www.google.nl/maps/place/Langeweg+43,+4511+GB+Breskens/@51.3960546,3.551225,15.5z/data=!4m5!3m4!1s0x47c4993dbbe3f487:0xd68ec4d9a4763af2!8m2!3d51.3965715!4d3.5513147">
+                                Langeweg 43,<br>
+                                4511 GB Breskens<br>
+                                </a>
+                            </address>
+                            <abbr title="Phone Number"><strong>Telefoonnummer:</strong></abbr> <a href="+31117308069">+31 (0) 117 308 069</a><br>
+                            <abbr title="Email Address"><strong>E-mail:</strong></abbr> <a href="info@interieurbyerdem.nl">info@interieurbyerdem.nl</a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="widget clearfix">
+                        <h4>Client Testimonials</h4>
+
+                        <div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
+                            <div class="flexslider">
+                                <div class="slider-wrap">
+                                    <div class="slide">
+                                        <div class="testi-image">
+                                            <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
+                                        </div>
+                                        <div class="testi-content">
+                                            <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                                            <div class="testi-meta">
+                                                Steve Jobs
+                                                <span>Apple Inc.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide">
+                                        <div class="testi-image">
+                                            <a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+                                        </div>
+                                        <div class="testi-content">
+                                            <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
+                                            <div class="testi-meta">
+                                                Collis Ta'eed
+                                                <span>Envato Inc.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide">
+                                        <div class="testi-image">
+                                            <a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
+                                        </div>
+                                        <div class="testi-content">
+                                            <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
+                                            <div class="testi-meta">
+                                                John Doe
+                                                <span>XYZ Inc.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="widget clearfix">
+
+                        <a href="#" class="social-icon si-small si-rounded si-facebook">
+                            <i class="icon-facebook"></i>
+                            <i class="icon-facebook"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-twitter">
+                            <i class="icon-twitter"></i>
+                            <i class="icon-twitter"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-gplus">
+                            <i class="icon-gplus"></i>
+                            <i class="icon-gplus"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-pinterest">
+                            <i class="icon-pinterest"></i>
+                            <i class="icon-pinterest"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-vimeo">
+                            <i class="icon-vimeo"></i>
+                            <i class="icon-vimeo"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-github">
+                            <i class="icon-github"></i>
+                            <i class="icon-github"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-yahoo">
+                            <i class="icon-yahoo"></i>
+                            <i class="icon-yahoo"></i>
+                        </a>
+
+                        <a href="#" class="social-icon si-small si-rounded si-linkedin">
+                            <i class="icon-linkedin"></i>
+                            <i class="icon-linkedin"></i>
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="widget quick-contact-widget form-widget clearfix">
+
+                        <h4>Send Message</h4>
+
+                        <div class="form-result"></div>
+
+                        <form id="quick-contact-form" name="quick-contact-form" action="include/form.php" method="post" class="quick-contact-form mb-0">
+
+                            <div class="form-process">
+                                <div class="css3-spinner">
+                                    <div class="css3-spinner-scaler"></div>
+                                </div>
+                            </div>
+
+                            <div class="input-group mx-auto">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="icon-user"></i></div>
+                                </div>
+                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Full Name" />
+                            </div>
+                            <div class="input-group mx-auto">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="icon-email2"></i></div>
+                                </div>
+                                <input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Email Address" />
+                            </div>
+                            <textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
+                            <input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
+                            <input type="hidden" name="prefix" value="quick-contact-form-">
+                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Send Email</button>
+
+                        </form>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div><!-- .footer-widgets-wrap end -->
     </div>
 
     <!-- Copyrights
     ============================================= -->
-    <div id="copyrights" class="bg-color">
+    <div id="copyrights">
+        <div class="container">
 
-        <div class="container clearfix">
-
-            <div class="row justify-content-between align-items-center">
-                <div class="col-md-6">
-                    <div class="copyright-links">
-                        <span class='copyright'>Gemaakt met veel ❤ en ☕ door <a href='https://3dynamisch.nl/' target='_blank'>
+            <div class="row justify-content-between">
+                <div class="col-12 col-lg-auto text-center text-lg-left">
+                    <span class='copyright'>Gemaakt met veel ❤ en ☕ door <a href='https://3dynamisch.nl/' target='_blank'>
                             3Dynamisch © <?= date('Y') ?></a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href='https://www.instagram.com/3dynamisch/' target='_blank'>
                             <i class='icon-instagram' style='font-size: 18px;'></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href='https://nl-nl.facebook.com/3dynamisch/' target='_blank'><i class='icon-facebook' style='font-size: 18px;'>
                             </i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://nl.linkedin.com/company/3dynamisch' target='_blank'>
                             <i class='icon-linkedin' style='font-size: 18px;'></i></a> </span>
-                    </div>
                 </div>
 
-                <div class="col-md-6 d-md-flex flex-md-column align-items-md-end mt-4 mt-md-0">
-                    <div class="copyrights-menu copyright-links clearfix">
-                        <a href="over-ons.php">Over Ons</a>/<a href="advies.php">Advies</a>/<a href="services.php">Services</a>/<a href="contact.php">Contact</a>
+                <div class="col-12 col-lg-auto text-center text-lg-right">
+                    <div class="copyrights-menu copyright-links mb-0">
+                        <a href="index.php">Home</a>/<a href="advies.php">Advies</a>/<a href="kleur-en-verf-advies.php">Kleur & Verf Advies</a>/<a href="materialen.php">Materialen & Producten</a>/<a href="services.php">Services</a>/<a href="over-ons.php">Over Ons</a>/<a href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>
 
         </div>
-
     </div><!-- #copyrights end -->
-
 </footer><!-- #footer end -->
