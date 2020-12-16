@@ -36,8 +36,8 @@ include 'elements/head.php'; ?>
                         <div class="container">
                             <div class="slider-caption">
                                 <div>
-                                    <h2 class="nott" data-animate="fadeInUp">Help the Homeless.</h2>
-                                    <a href="#" data-animate="fadeInUp" data-delay="400" class="button button-rounded button-large button-light shadow nott ls0 ml-0 mt-4">Know More</a>
+                                    <h2 class="nott" data-animate="fadeInUp">Interieur By Erdem</h2>
+                                    <a href="#" data-animate="fadeInUp" data-delay="400" class="button button-rounded button-large button-light shadow nott ls0 ml-0 mt-4">Meer informatie</a>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ include 'elements/head.php'; ?>
                         <div class="container">
                             <div class="slider-caption">
                                 <div>
-                                    <h2 class="nott" data-animate="fadeInUp">Donate with Kindness.</h2>
+                                    <h2 class="nott" data-animate="fadeInUp">Meer informatie</h2>
                                     <a href="#" data-animate="fadeInUp" data-delay="400" class="button button-rounded button-large button-light shadow nott ls0 ml-0 mt-4">Know More</a>
                                 </div>
                             </div>
@@ -82,21 +82,21 @@ include 'elements/head.php'; ?>
                         <div class="col-md-3 px-1">
                             <a href="demo-nonprofit-about.html" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <i class="icon-line-align-center"></i>View Our Mission
+                                    <i class="icon-line-align-center"></i>Over Ons
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-3 px-1">
                             <a href="demo-nonprofit-causes.html" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <i class="icon-line-umbrella"></i>Top Founders
+                                    <i class="icon-line-umbrella"></i>Producten
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-3 px-1">
                             <a href="demo-nonprofit-contact.html" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <i class="icon-line-mail"></i>Request a Quote
+                                    <i class="icon-line-mail"></i>Contact
                                 </div>
                             </a>
                         </div>
@@ -110,12 +110,19 @@ include 'elements/head.php'; ?>
                     <div class="row justify-content-center">
                         <div class="col-md-7 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Unconditional Help</h2>
+                                <h2 class="mb-4 nott">Verf & Wonen</h2>
                             </div>
                             <div class="svg-line bottommargin-sm">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus, dolor quod voluptatum perferendis ullam. Odio sequi at dolore consequatur ad, odit expedita tenetur.</p>
+                            <p>Welkom bij Interieur By Erdem, dé interieurspeciaalzaak in Breskens en omstreken!
+                                Bij ons kunt u alles vinden voor de inrichting van uw woning.
+                                Wij zijn gespecialiseerd in het sfeervol op maat maken en aankleden van vloeren, wanden en ramen.
+                                Wij werken met 1 team aan vaste vakmannen die samen hun krachten bundelen.
+                                Hierdoor kunnen wij u zorgeloze en snelle service bieden die u verdient.
+                                Onze persoonlijke en zorgvuldige aanpak maakt ons een uniek bedrijf.</p>
+                            <br></br>
+                            <p>Wanneer kiest u voor Interieur By Erdem?</p>
                         </div>
                     </div>
                     <div class="row mt-5 col-mb-50 mb-0">
@@ -125,9 +132,11 @@ include 'elements/head.php'; ?>
                                     <img src="demos/nonprofit/images/icons/donate.svg" alt="Featured Icon" width="60" class="mb-3">
                                 </div>
                                 <div class="fbox-content px-0">
-                                    <h3 class="nott ls0"><a href="#" class="text-dark">Give Donation.</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
-                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Donate Now</a>
+                                    <h3 class="nott ls0"><a href="#" class="text-dark"></a>Als u kiest voor kwaliteit</h3>
+                                    <p>Door het gebruik van kwaliteitsverf gaat ons gepartnerd schildersbedrijf alleen voor het allerbeste.
+                                        Gekozen werd voor Sikkens, een topper onder de verven, met Flexa als nevenmerk (in de categorie Sigma en Histor), beiden geproduceerd bij Akzo Nobel.
+                                        Het Erkend Sikkens predicaat 2016 en 2017 (elk jaar controle) spreekt boekdelen over hun inzet.</p>
+                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Meer informatie</a>
                                 </div>
                             </div>
                         </div>
@@ -138,9 +147,11 @@ include 'elements/head.php'; ?>
                                     <img src="demos/nonprofit/images/icons/volunteer.svg" alt="Featured Icon" width="60" class="mb-3">
                                 </div>
                                 <div class="fbox-content px-0">
-                                    <h3 class="nott ls0"><a href="#" class="text-dark">Become a Volunteer.</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, provident.</p>
-                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Join Now</a>
+                                    <h3 class="nott ls0"><a href="#" class="text-dark">Als u graag persoonlijk wordt geholpen</a></h3>
+                                    <p>Wij komen graag persoonlijk bij de mensen langs om de diverse mogelijkheden te bespreken en advies te geven, ook bij kleine opdrachten.
+                                        Iedere situatie of plek vraagt om een specifieke benadering. En daarbij willen wij graag van dienst zijn. Dat geldt niet alleen voor het schilderwerk, maar ook voor behangwerk.
+                                        Wat moet er allemaal gebeuren voordat de muur behangen wordt? Wij kijken graag gedetailleerd met u mee.</p>
+                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Meer informatie</a>
                                 </div>
                             </div>
                         </div>
@@ -151,9 +162,11 @@ include 'elements/head.php'; ?>
                                     <img src="demos/nonprofit/images/icons/help-child.svg" alt="Featured Icon" width="60" class="mb-3">
                                 </div>
                                 <div class="fbox-content px-0">
-                                    <h3 class="nott ls0"><a href="#" class="text-dark">Help the Children.</a></h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, ipsa!</p>
-                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Help Now</a>
+                                    <h3 class="nott ls0"><a href="#" class="text-dark">Als u alles voor uw woning op één plaats wilt vinden</a></h3>
+                                    <p>Bij Interieur By Erdem hebben we alles in huis om het de klant zo makkelijk mogelijk te maken.
+                                        Men kan bij ons kiezen uit de vele mogelijkheden op alle gebieden van het wooncomfort.
+                                        Wij helpen u graag bij het maken van de beste productkeuze voor de gewenste bestemming voor u en uw portemonnee.</p>
+                                    <a href="#" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Meer informatie</a>
                                 </div>
                             </div>
                         </div>
@@ -345,7 +358,7 @@ include 'elements/head.php'; ?>
                 <div class="container clearfix">
                     <div class="row">
                         <div class="col-lg-8">
-                            <h3 class="mb-2">Our Mission <span>&amp;</span> Goals</h3>
+                            <h3 class="mb-2">Onze doelen <span>&amp;</span> Goals</h3>
                             <div class="svg-line mb-2 clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
@@ -447,7 +460,7 @@ include 'elements/head.php'; ?>
                     <div class="row justify-content-center mb-5">
                         <div class="col-md-7 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Happy Volunteers</h2>
+                                <h2 class="mb-4 nott">Deze klanten waren u voor.</h2>
                             </div>
                             <div class="svg-line bottommargin-sm clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
