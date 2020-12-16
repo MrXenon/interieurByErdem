@@ -10,7 +10,7 @@ include 'elements/head.php'; ?>
 
     <!-- Document Title
     ============================================= -->
-    <title>Over ons - NonProfit Demo | Canvas</title>
+    <title>About - NonProfit Demo | Canvas</title>
 
 </head>
 
@@ -31,14 +31,14 @@ include 'elements/head.php'; ?>
             <div class="row h-100 align-items-center justify-content-between">
                 <div class="col-lg-4 col-md-6 py-5 py-md-0">
                     <div class="heading-block border-bottom-0 mb-4">
-                        <h5 class="mb-1 text-uppercase ls2 color op-06">About Us</h5>
-                        <h2 class="mb-4 nott">Unconditional Help</h2>
+                        <h5 class="mb-1 text-uppercase ls2 color op-06">Over Ons</h5>
+                        <h2 class="mb-4 nott">Interieur By Erdem, voor al uw woonwensen! </h2>
                     </div>
                     <div class="svg-line bottommargin-sm">
                         <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                     </div>
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus dolor quod voluptatum perferendis.</p>
-                    <a href="demo-nonprofit-causes-single.html" class="button button-rounded button-xlarge bg-color button-light text-dark shadow nott ls0 m-0">Donate Now</a>
+                    <p class="mb-5">Interieur By Erdem, zo luidt sinds 1 januari 2020 de nieuwe naam van de verf-en woonwinkel aan de Langeweg te Breskens. De naam is veranderd, maar verder zijn er nauwelijks wijzigingen.
+                        Kwaliteit en service zijn nog steeds hetzelfde gebleven en staan nog altijd voorop, evenals de gastvrijheid en klantvriendelijkheid van eigenaresse Ikram Erdem. </p>
 
                 </div>
                 <div class="col-lg-8 col-md-6">
@@ -109,7 +109,34 @@ include 'elements/head.php'; ?>
                             <div class="svg-line mb-2 clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam deleniti veritatis nostrum, temporibus vero maxime quisquam quaerat doloremque fugit nesciunt.</p>
+                            <p class="mb-5">In 2016 begon Ikram met een compagnon het bedrijf VG Verf & Wonen.
+                                Twee jaar geleden is ze verdergegaan als eenmanszaak.
+                                ‘’kort voor we begonnen, wist ik weinig van verf en interieur, maar dat is intussen flink veranderd!
+                                Ik heb veel cursussen gevolgd en dat doe ik nog steeds. Uiteraard heeft dat mijn kennis aanmerkelijk uitgebreid.
+                                Tegenwoordig kan ik mijn klanten een goed advies en professioneel advies geven en dat is in ieders voordeel.’’ </p>
+
+                            <p>Aanvankelijk deed Ikram alleen de winkel, maar sinds ze het bedrijf alleen voert, komt ze ook vaak bij haar klanten thuis.
+                                ‘’Op de eerste plaats om de maten op te nemen. Daarnaast is het ook veel beter als ik bij de mensen thuis de mogelijkheden kan zien.
+                                Zo kan ik bijvoorbeeld een veel beter kleuradvies geven, want de lichtinval en het interieur is overal anders en dat kan je op de plaats waar het moet komen het beste zien.’’</p>
+
+                            <p>Ikram gaat voor topkwaliteit en laat niets aan het toeval over.
+                                Als het nodig is roept ze de hulp van specialisten in.
+                                Zo maakt ze gebruik van vakmensen om vloeren te leggen en het plaatsen van raamdecoraties gebeurt over het algemeen door de montagedienst.  In de winkel verkoopt ze verf van de gekende merken zoals Sikkens en Flexa. Uiteraard is er een verfmengmachine die nog veel meer mogelijk maakt.
+                                ‘’Als ik iets niet in voorraad heb, dan kan dat uiteraard altijd besteld worden, waarna het binnen een of twee dagen geleverd wordt.’’ Tegenwoordig is krijtverf helemaal in, laat ze weten.
+                                ‘’Dat is volledig mat en 100% ecologisch, dus zonder chemicaliën. Het hecht overal op. Bovendien is grondverf niet nodig.’’  </p>
+
+                            <p>Naast verf zijn er heel veel woonaccessoires verkrijgbaar, onder meer raamdecoraties, gordijnen, behang, kussens en tafelzeilen.
+                                ‘’Er zijn verschillende merken behang die wij verkopen zoals Eijffinger, Kek Amsterdam en BN Voca.’’ </p>
+
+                            <p>Populair in de winkel zijn onder meer raamtextiel als vervanger voor raamfolie, transparante, dikke tafelzeilen die de tafel goed beschermen en speciale Ilbays-doekjes. ‘’Deze hoogwaardige doeken zijn ideaal voor streepvrije glasreiniging.
+                                Ze laten absoluut geen krassen of vlekken achter en mogen eigenlijk in geen enkel huishouden ontbreken’’! </p>
+
+                            <p>In de winkel is verder een ruime keus aan buitenzonnewering, tapijt, vinyl, laminaat klik-en plaksystemen. </p>
+
+                            <p>Interieur By Erdem heeft zoveel te bieden dat het voor haar klanten weleens moeilijk is om een keuze te maken. ‘’Samen komen we er altijd uit’’, garandeert Ikram. ‘’Ik ben altijd bereid om vrijblijvend vragen te beantwoorden over woonwensen.
+                                Dat is onderdeel van de service die ik aanbied. Ik ben klantvriendelijk en afspraak is afspraak’’. </p>
+
+                            <p>De winkel is dinsdag tot en met zaterdag geopend van 09:00 tot 17:00 uur, en op woensdag van 09:00 tot 12:00 uur. </p>
                             <div class="row mission-goals gutter-30 mb-0">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
