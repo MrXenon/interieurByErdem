@@ -20,7 +20,7 @@
 
                     <div class="widget clearfix">
 
-                        <img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
+                        <a href="index.php"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Image" class="footer-logo"></a>
 
                         <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
                             <address>
@@ -41,7 +41,7 @@
                 <div class="col-md-6 col-lg-4">
 
                     <div class="widget clearfix">
-                        <h4>Client Testimonials</h4>
+                        <h4>Klant Reviews</h4>
 
                         <div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
                             <div class="flexslider">
@@ -138,7 +138,7 @@
 
                     <div class="widget quick-contact-widget form-widget clearfix">
 
-                        <h4>Send Message</h4>
+                        <h4>Bericht versturen</h4>
 
                         <div class="form-result"></div>
 
@@ -165,7 +165,7 @@
                             <textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
                             <input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
                             <input type="hidden" name="prefix" value="quick-contact-form-">
-                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-danger m-0" value="submit">Send Email</button>
+                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-erdem  m-0" value="submit">Send Email</button>
 
                         </form>
 

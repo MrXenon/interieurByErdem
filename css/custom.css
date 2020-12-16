@@ -18,3 +18,18 @@ textarea{
 blockquote{
     border-color: #48555F !important;
 }
+
+.dark #footer, #footer.dark {
+    color: rgba(255,255,255,0.75);
+    background-color: #48555F !important;
+    border-top-color: rgba(255,255,255,0.15);
+}
+.btn-erdem{
+    background-color: #D7D4C8 !important;
+    border: 2px solid #D7D4C8 !important;
+}
+.btn-erdem:hover{
+    background-color: #48555F !important;
+    border: 2px solid #D7D4C8 !important;
+    color: #D7D4C8 !important;
+}
