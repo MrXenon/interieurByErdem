@@ -314,36 +314,6 @@ include 'elements/head.php'; ?>
                 </div>
             </div>
 
-            <div class="section bg-transparent">
-                <div class="container clearfix">
-                    <div class="row justify-content-center mb-5">
-                        <div class="col-md-7 center">
-                            <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Onze Werknemers</h2>
-                            </div>
-                            <div class="svg-line bottommargin-sm clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
-                            </div>
-                            <p>Ikram gaat voor topkwaliteit en laat niets aan het toeval over.  Als het nodig is roept ze de hulp van specialisten in.
-                                Zo maakt ze gebruik van vakmensen om vloeren te leggen en het plaatsen van raamdecoraties gebeurt over het algemeen door de montagedienst.
-                                In de winkel verkoopt ze verf van de gekende merken zoals Sikkens en Flexa. Uiteraard is er een verfmengmachine die nog veel meer mogelijk maakt.
-                                ‘’Als ik iets niet in voorraad heb, dan kan dat uiteraard altijd besteld worden, waarna het binnen een of twee dagen geleverd wordt.’’ </p>
-                        </div>
-                    </div>
-                    <div class="row justify-content-around">
-                        <div class="col-lg-2 col-md-4 col-6">
-                            <div class="team overflow-hidden">
-                                <div class="team-image">
-                                    <img src="elements/vg-images/Verfwinkel-VG-Wonen-Breskens-8-e1503563837339-1024x753.jpg" alt="Ikram Erdem">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Ikram Erdem<small>Eigenaar</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="section bg-transparent" style="padding: 80px 0">
                 <div class="container clearfix">
                     <div class="row justify-content-center">
