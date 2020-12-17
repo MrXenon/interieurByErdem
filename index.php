@@ -28,6 +28,7 @@ include 'elements/head.php'; ?>
     <!-- Slider
     ============================================= -->
     <section id="slider" class="slider-element dark swiper_wrapper slider-parallax min-vh-75">
+        <br>
         <div class="slider-inner">
 
             <div class="swiper-container swiper-parent">
@@ -66,6 +67,7 @@ include 'elements/head.php'; ?>
             </div>
 
         </div>
+        </br>
     </section>
 
     <!-- Content
