@@ -18,6 +18,9 @@ textarea{
 blockquote{
     border-color: #48555F !important;
 }
+.parallax-quote{
+    border-color:  #D7D4C8 !important;
+}
 
 .dark #footer, #footer.dark {
     color: rgba(255,255,255,0.75);

@@ -6,7 +6,7 @@ include 'elements/head.php'; ?>
 
     <!-- Document Title
     ============================================= -->
-    <title>Contact - NonProfit Demo | Canvas</title>
+    <title>Contact | Interieur By Erdem</title>
 
 </head>
 

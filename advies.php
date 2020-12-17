@@ -10,7 +10,7 @@ include 'elements/head.php'; ?>
 
 <!-- Document Title
 ============================================= -->
-<title>About - NonProfit Demo | Canvas</title>
+<title>Advies | Interieur By Erdem</title>
 
 </head>
 
@@ -31,14 +31,15 @@ include 'elements/head.php'; ?>
             <div class="row h-100 align-items-center justify-content-between">
                 <div class="col-lg-4 col-md-6 py-5 py-md-0">
                     <div class="heading-block border-bottom-0 mb-4">
-                        <h5 class="mb-1 text-uppercase ls2 color op-06">About Us</h5>
-                        <h2 class="mb-4 nott">Unconditional Help</h2>
+                        <h5 class="mb-1 text-uppercase ls2 color op-06">VAKKUNDIG ADVIES INZAKE AANKOOP, PRIJSKEUZE, MAAKPROCES EN AFWERKING</h5>
+                        <h2 class="mb-4 nott">Advies</h2>
                     </div>
                     <div class="svg-line bottommargin-sm">
                         <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                     </div>
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus dolor quod voluptatum perferendis.</p>
-                    <a href="demo-nonprofit-causes-single.html" class="button button-rounded button-xlarge bg-color button-light text-dark shadow nott ls0 m-0">Donate Now</a>
+                    <p class="mb-5">Het aanbod bij Interieur By Erdem is enorm en rijk gevarieerd: mooie collecties en een groot assortiment.
+                        Van verf, vloeren, behang, gordijnen, raamdecoratie, horren tot buitenzonwering, sierlijsten, tafelzeil en woonaccessoires. U vindt het bij ons! </p>
+
 
                 </div>
                 <div class="col-lg-8 col-md-6">
@@ -56,43 +57,28 @@ include 'elements/head.php'; ?>
 
             <div class="container">
 
-                <div class="slider-feature">
-                    <div class="row gutter-10 justify-content-center">
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
+                <div class="slider-feature w-100">
+                    <div class="row justify-content-center">
+                        <div class="col-md-3 px-1">
+                            <a href="#kleur" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/breakfast.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="11265" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Meals Surved</h5>
+                                    <i class="icon-line-align-center"></i>Kleur Advies
                                 </div>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
+                        <div class="col-md-3 px-1">
+                            <a href="#materiaal" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/volunteers.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="2500" data-refresh-interval="50" data-speed="2200" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Volunteers</h5>
+                                    <i class="icon-line-umbrella"></i>Welke materialen
                                 </div>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
+                        <div class="col-md-3 px-1">
+                            <a href="#advies" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/educated.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="100" data-to="17408" data-refresh-interval="25" data-speed="2300" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Person Educated</h5>
+                                    <i class="icon-line-mail"></i>Advies plaatsing
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1 h-translate-y-sm all-ts">
-                                <div class="card-body">
-                                    <img src="demos/nonprofit/images/icons/shelter.svg" alt="Counter Icon" width="70" class="mb-4">
-                                    <div class="counter font-secondary"><span data-from="150" data-to="13413" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
-                                    <h5 class="nott ls0 mb-0 mt-2 text-muted">Got Shelter</h5>
-                                </div>
-                            </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -104,99 +90,25 @@ include 'elements/head.php'; ?>
             <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
                     <div class="row">
-                        <div class="col-lg-8">
-                            <h3 class="mb-2">Our Mission <span>&amp;</span> Goals</h3>
-                            <div class="svg-line mb-2 clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
+                        <div class="col-lg-12 center">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="mb-4 nott">VAKKUNDIG ADVIES INZAKE AANKOOP, <br>PRIJSKEUZE, MAAKPROCES EN AFWERKING</h3>
                             </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam deleniti veritatis nostrum, temporibus vero maxime quisquam quaerat doloremque fugit nesciunt.</p>
-                            <div class="row mission-goals gutter-30 mb-0">
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/home.svg" alt="Featured Icon 1" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Homeless Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/health.svg" alt="Featured Icon 2" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Health Charities.</a></h3>
-                                            <p>Continually restore adaptive paradigms after "outside.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/education.svg" alt="Featured Icon 3" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Education Charities.</a></h3>
-                                            <p>Quickly benchmark client-centered vortals without cutting.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/animal.svg" alt="Featured Icon 4" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Animal Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/environmental.svg" alt="Featured Icon 5" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Eco Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-plain bg-white mx-0">
-                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/food.svg" alt="Featured Icon 6" width="50">
-                                        </div>
-                                        <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="#" class="text-dark">Food Charities.</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="svg-line bottommargin-sm">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                             </div>
                         </div>
+                        <div class="col-lg-6">
+                            <p>
+                                Na aankoop, mits naar wens, alles worden uitgevoerd en aangebracht/gemonteerd via onze vaste partners: van schilderen, stucen,
+                                vloeren plaatsen/leggen, tot het uitgebreid aankleden van de woning. De nodige kennis en vakmanschap is hiervoor aanwezig.
+                            </p>
+                        </div>
 
-                        <div class="col-lg-4 mt-5 mt-lg-0">
-                            <h3 class="mb-2">Latest Videos</h3>
-                            <div class="svg-line mb-2 clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
-                            </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit excepturi ipsa!</p>
-                            <div class="clear"></div>
-                            <a href="https://www.youtube.com/watch?v=VqmFKnHG5q8" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color mt-3 clearfix" style="background: linear-gradient(rgba(0,0,0,.05), rgba(0,0,0,.01)), url('demos/nonprofit/images/others/5.jpg') no-repeat center center / cover; height: 300px"><i class="icon-play"></i></a>
-                            <div class="row mt-4" data-lightbox="gallery">
-                                <div class="col-sm-6">
-                                    <a href="https://www.youtube.com/watch?v=hc7iuc5KZ8Y" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color left" style="background: url('demos/nonprofit/images/others/4.jpg') no-repeat center center / cover; height: 140px"><i class="icon-play icon-small"></i></a>
-                                </div>
-
-                                <div class="col-sm-6 mt-4 mt-sm-0">
-                                    <a href="https://www.youtube.com/watch?v=VqmFKnHG5q8" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color left" style="background: url('demos/nonprofit/images/others/2.jpg') no-repeat center center / cover; height: 140px"><i class="icon-play icon-small"></i></a>
-                                </div>
-                            </div>
+                        <div class="col-lg-6">
+                            <p>Het hele huis kan met dit totaalpakket gestyled of gerestyled worden met als resultaat een fraai op elkaar afgestemd geheel.
+                                De eigenaresse, Ikram Erdem koos voor dit concept vanwege het uiteindelijke gemak voor de klant en de waarborging van de kwaliteit.
+                            </p>
                         </div>
                     </div>
                 </div>

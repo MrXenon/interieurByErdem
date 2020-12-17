@@ -11,7 +11,7 @@ include 'elements/head.php'; ?>
 
 <!-- Document Title
 ============================================= -->
-<title>NonProfit Demo | Canvas</title>
+<title>Home | Interieur By Erdem</title>
 
 </head>
 
@@ -136,7 +136,7 @@ include 'elements/head.php'; ?>
                                     <p>Door het gebruik van kwaliteitsverf gaat ons gepartnerd schildersbedrijf alleen voor het allerbeste.
                                         Gekozen werd voor Sikkens, een topper onder de verven, met Flexa als nevenmerk (in de categorie Sigma en Histor), beiden geproduceerd bij Akzo Nobel.
                                         Het Erkend Sikkens predicaat 2016 en 2017 (elk jaar controle) spreekt boekdelen over hun inzet.</p>
-                                    <a href="kleur-en-verf-advies.php" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Kleur & verd advies</a>
+                                    <a href="kleur-en-verf-advies.php" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Kleur & verf advies</a>
                                 </div>
                             </div>
                         </div>
