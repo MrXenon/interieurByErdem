@@ -25,35 +25,34 @@ include 'elements/head.php'; ?>
 
     <!-- Slider
     ============================================= -->
-    <section id="slider" class="slider-element swiper_wrapper min-vh-75 justify-content-start dark" style="background: #063639">
+    <section id="slider" class="slider-element dark swiper_wrapper slider-parallax min-vh-75">
+        <div class="slider-inner">
 
-        <div class="container">
-            <div class="row h-100 align-items-center justify-content-between">
-                <div class="col-lg-4 col-md-6 py-5 py-md-0">
-                    <div class="heading-block border-bottom-0 mb-4">
-                        <h5 class="mb-1 text-uppercase ls2 color op-06">VAKKUNDIG ADVIES INZAKE AANKOOP, PRIJSKEUZE, MAAKPROCES EN AFWERKING</h5>
-                        <h2 class="mb-4 nott">Advies</h2>
+            <div class="swiper-container swiper-parent">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide dark">
+                        <div class="container">
+                            <div class="slider-caption">
+                                <div>
+                                    <h2 class="nott" data-animate="fadeInUp">KLEUR & VERF ADVIES</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/advies1.jpg') no-repeat center center; background-size: cover;"></div>
                     </div>
-                    <div class="svg-line bottommargin-sm">
-                        <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
-                    </div>
-                    <p class="mb-5">Het aanbod bij Interieur By Erdem is enorm en rijk gevarieerd: mooie collecties en een groot assortiment.
-                        Van verf, vloeren, behang, gordijnen, raamdecoratie, horren tot buitenzonwering, sierlijsten, tafelzeil en woonaccessoires. U vindt het bij ons! </p>
-
-
-                </div>
-                <div class="col-lg-8 col-md-6">
-                    <img src="demos/nonprofit/images/about/1.png" alt="Image" class="full-width-img">
                 </div>
             </div>
-        </div>
 
+        </div>
     </section>
 
     <!-- Content
     ============================================= -->
     <section id="content">
         <div class="content-wrap py-0 overflow-visible">
+
+            <svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"/></svg>
+
 
             <div class="container">
 
@@ -67,7 +66,7 @@ include 'elements/head.php'; ?>
                             </a>
                         </div>
                         <div class="col-md-3 px-1">
-                            <a href="#materiaal" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
+                            <a href="#materialen" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
                                     <i class="icon-line-umbrella"></i>Welke materialen
                                 </div>
@@ -92,7 +91,7 @@ include 'elements/head.php'; ?>
                     <div class="row">
                         <div class="col-lg-12 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h3 class="mb-4 nott">VAKKUNDIG ADVIES INZAKE AANKOOP, <br>PRIJSKEUZE, MAAKPROCES EN AFWERKING</h3>
+                                <h3 class="mb-4 nott">VAKKUNDIG ADVIES INZAKE AANKOOP, <br>PRIJSKEUZE, MAAKPROCES EN AFWERKING <?=getCurrent()?></h3>
                             </div>
                             <div class="svg-line bottommargin-sm">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
@@ -100,153 +99,167 @@ include 'elements/head.php'; ?>
                         </div>
                         <div class="col-lg-6">
                             <p>
+                                Het aanbod bij Interieur By Erdem is enorm en rijk gevarieerd: mooie collecties en een groot assortiment.
+                                Van verf, vloeren, behang, gordijnen, raamdecoratie, horren tot buitenzonwering, sierlijsten, tafelzeil en woonaccessoires. U vindt het bij ons!
+                            </p>
+                            <p>
                                 Na aankoop, mits naar wens, alles worden uitgevoerd en aangebracht/gemonteerd via onze vaste partners: van schilderen, stucen,
                                 vloeren plaatsen/leggen, tot het uitgebreid aankleden van de woning. De nodige kennis en vakmanschap is hiervoor aanwezig.
                             </p>
-                        </div>
-
-                        <div class="col-lg-6">
                             <p>Het hele huis kan met dit totaalpakket gestyled of gerestyled worden met als resultaat een fraai op elkaar afgestemd geheel.
                                 De eigenaresse, Ikram Erdem koos voor dit concept vanwege het uiteindelijke gemak voor de klant en de waarborging van de kwaliteit.
+                            </p>
+                            <p>
+                                <i>
+                                Interieur By Erdem bestaat sinds 21 maart 2016 en richt zich 100 % op kwaliteitsproducten tegen een goede prijs.
+                                Wie zijn woning of interieur wil veranderen of inspiratie wil opdoen, is hier aan het juiste adres. Men vindt er echt alles wat men nodig heeft!
+                                </i>
+                            </p>
+                        </div>
+                        <div class="col-lg-6">
+                            <img style="height:500px; width:auto;" src="elements/vg-images/Verfwinkel-VG-Wonen-Breskens-5-1024x683.jpg" alt="Ikram Erdem">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section" style="background: url('demos/nonprofit/images/others/section-bg.jpg') no-repeat center center / cover; padding: 80px 0;">
+                <div class="container clearfix">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h3 class="mb-2 center">Wanneer kiest u voor Interieur By Erdem?</h3>
+                            <div class="svg-line mb-2 clearfix center">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
+                            </div>
+                            <p class="mb-5"></p>
+                            <div class="row mission-goals gutter-30 mb-0">
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-plain bg-white mx-0">
+                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <img src="demos/nonprofit/images/icons/home.svg" alt="Featured Icon 1" width="50">
+                                        </div>
+                                        <div class="fbox-content">
+                                            <h3 class="nott ls0"><a href="advies.php" class="text-dark">Als u kiest voor kwaliteit</a></h3>
+                                            <p>Door het gebruik van kwaliteitsverf gaat ons gepartnerd schildersbedrijf alleen voor het allerbeste.
+                                                Gekozen werd voor Sikkens, een topper onder de verven, met Flexa als nevenmerk (in de categorie Sigma en Histor), beiden geproduceerd bij Akzo Nobel.
+                                                Het Erkend Sikkens predicaat 2016 en 2017 (elk jaar controle) spreekt boekdelen over hun inzet.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-plain bg-white mx-0">
+                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <img src="demos/nonprofit/images/icons/health.svg" alt="Featured Icon 2" width="50">
+                                        </div>
+                                        <div class="fbox-content">
+                                            <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Als u graag persoonlijk wordt geholpen</a></h3>
+                                            <p>Wij komen graag persoonlijk bij de mensen langs om de diverse mogelijkheden te bespreken en advies te geven, ook bij kleine opdrachten.
+                                                Iedere situatie of plek vraagt om een specifieke benadering. En daarbij willen wij graag van dienst zijn.
+                                                Dat geldt niet alleen voor het schilderwerk, maar ook voor behangwerk.
+                                                Wat moet er allemaal gebeuren voordat de muur behangen wordt? Wij kijken graag gedetailleerd met u mee.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-plain bg-white mx-0">
+                                        <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <img src="demos/nonprofit/images/icons/education.svg" alt="Featured Icon 3" width="50">
+                                        </div>
+                                        <div class="fbox-content">
+                                            <h3 class="nott ls0"><a href="materialen.php" class="text-dark">Als u alles voor uw woning op één plaats wilt vinden</a></h3>
+                                            <p>Bij Interieur By Erdem hebben we alles in huis om het de klant zo makkelijk mogelijk te maken. Men kan bij ons kiezen uit de vele mogelijkheden op alle gebieden van het wooncomfort.
+                                                Wij helpen u graag bij het maken van de beste productkeuze voor de gewenste bestemming voor u en uw portemonnee.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="kleur"></div>
+
+            <div class="section m-0 bg-transparent pt-0">
+                <div class="container clearfix">
+                    <div class="row">
+                        <div class="col-lg-12 center">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="mb-4 nott">Kleur advies</h3>
+                            </div>
+                            <div class="svg-line bottommargin-sm">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                        </div>
+                        <div class="col-lg-6">
+                            <p>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="section mt-3" style="background: url('demos/nonprofit/images/others/section-bg.jpg') no-repeat center center / cover; padding: 80px 0;">
+            <div id="materialen"></div>
+
+            <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
-                    <div class="row justify-content-center mb-5">
-                        <div class="col-md-7 center">
+                    <div class="row">
+                        <div class="col-lg-12 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Happy Volunteers</h2>
+                                <h3 class="mb-4 nott">Welke materialen</h3>
                             </div>
-                            <div class="svg-line bottommargin-sm clearfix">
+                            <div class="svg-line bottommargin-sm">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus, dolor quod voluptatum perferendis ullam. Odio sequi at dolore consequatur ad, odit expedita tenetur.</p>
                         </div>
-                    </div>
-                    <div class="row justify-content-around">
-                        <div class="col-lg-2 col-md-4 col-6">
-                            <div class="team overflow-hidden">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/1.jpg" alt="Penny Tool">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Penny Tool<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/6.jpg" alt="Piff Jenkins">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Piff Jenkins<small>Volunteers</small></h4>
-                                </div>
-                            </div>
+                        <div class="col-lg-6">
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                            </p>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-4">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/2.jpg" alt="Rodney Artich">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Rodney Artich<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/7.jpg" alt="Weir Doe">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Weir Doe<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/3.jpg" alt="Jackson Pot">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Jackson Pot<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/8.jpg" alt="Phillip Anthropy ">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Phillip Anthropy <small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-5">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/4.jpg" alt="Eric Widget">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Eric Widget<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team mt-5">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/9.jpg" alt="Giles Posture">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Giles Posture<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-4 col-6 mt-1">
-                            <div class="team">
-                                <div class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/5.jpg" alt="Gunther Beard">
-                                </div>
-                                <div class="team-desc">
-                                    <h4 class="team-title pt-3 mb-0 font-weight-medium nott">Gunther Beard<small>Volunteers</small></h4>
-                                </div>
-                            </div>
-                            <div class="team full-border imagescalein mt-5">
-                                <a href="#" class="team-image">
-                                    <img src="demos/nonprofit/images/volunteers/10.jpg" alt="Apply Volunteer" class="rounded-0">
-                                </a>
-                            </div>
+                        <div class="col-lg-6">
+                            <p>
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="section bg-transparent">
+            <div id="advies"></div>
+
+            <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
-                    <div class="row justify-content-center">
-                        <div class="col-md-7 center">
+                    <div class="row">
+                        <div class="col-lg-12 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Who Work With Us</h2>
+                                <h3 class="mb-4 nott">Advies plaatsing</h3>
                             </div>
-                            <div class="svg-line bottommargin-sm clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="15">
+                            <div class="svg-line bottommargin-sm">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, quasi, dolorum blanditiis eius laboriosam, quidem temporibus, dolor quod voluptatum perferendis ullam. Odio sequi at dolore consequatur ad, odit expedita tenetur.</p>
                         </div>
-                        <div class="clear"></div>
-                        <div class="col-md-11 my-5">
-                            <ul class="clients-grid grid-2 grid-sm-3 grid-md-5 mb-0">
-                                <li class="grid-item"><a href="#"><img src="images/clients/1.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/2.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/3.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/4.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/5.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/6.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/7.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/8.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/9.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="images/clients/10.png" alt="Clients"></a></li>
-                            </ul>
+                        <div class="col-lg-6">
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                            </p>
                         </div>
-                        <h5 class="font-weight-normal text-black-50 mb-0">If you want to work with for nonprofit? <a href="#"><u>Send your Details</u></a>.</h5>
+                        <div class="col-lg-6">
+                            <p>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

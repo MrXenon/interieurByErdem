@@ -7,8 +7,6 @@
  */
 include 'elements/head.php'; ?>
 
-
-
 <!-- Document Title
 ============================================= -->
 <title>Home | Interieur By Erdem</title>
@@ -23,8 +21,6 @@ include 'elements/head.php'; ?>
 
                     <!--Include navigation-->
                     <?php include 'elements/nav.php';?>
-
-
     <!-- Slider
     ============================================= -->
     <section id="slider" class="slider-element dark swiper_wrapper slider-parallax min-vh-75">
