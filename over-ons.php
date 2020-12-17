@@ -17,13 +17,26 @@ include 'elements/head.php'; ?>
     <!--Include navigation-->
     <?php include 'elements/nav.php';?>
 
-    <!-- Page Title
-    ============================================= -->
-    <section id="page-title" class="page-title-parallax page-title-dark page-title-right include-header" style="padding: 250px 0; background-image: url('images/about/me-parallax.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+    <!-- Slider
+============================================= -->
+    <section id="slider" class="slider-element dark swiper_wrapper slider-parallax min-vh-75">
+        <div class="slider-inner">
 
-        <div class="container clearfix">
-            <h1>Ikram Erdem</h1>
-            <span>Eigenaar</span>
+            <div class="swiper-container swiper-parent">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide dark">
+                        <div class="container">
+                            <div class="slider-caption">
+                                <div>
+                                    <h2 class="nott" data-animate="fadeInUp">OVER ONS</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/over-ons1.jpg') no-repeat center center; background-size: cover;"></div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </section><!-- #page-title end -->
@@ -31,7 +44,10 @@ include 'elements/head.php'; ?>
     <!-- Content
     ============================================= -->
     <section id="content">
-        <div class="content-wrap pb-0">
+        <div class="content-wrap py-0 overflow-visible">
+
+            <svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"/></svg>
+
             <div class="container">
 
                 <div class="row">

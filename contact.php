@@ -18,16 +18,43 @@ include 'elements/head.php'; ?>
     <!--Include navigation-->
     <?php include 'elements/nav.php';?>
 
+    <!-- Slider
+============================================= -->
+    <section id="slider" class="slider-element dark swiper_wrapper slider-parallax min-vh-75">
+        <div class="slider-inner">
+
+            <div class="swiper-container swiper-parent">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide dark">
+                        <div class="container">
+                            <div class="slider-caption">
+                                <div>
+                                    <h2 class="nott" data-animate="fadeInUp">CONTACT</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/over-ons1.jpg') no-repeat center center; background-size: cover;"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section><!-- #page-title end -->
+
     <!-- Content
     ============================================= -->
     <section id="content">
-        <div class="content-wrap">
+        <div class="content-wrap py-0 overflow-visible">
+
+            <svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"/></svg>
+
             <div class="container clearfix">
 
                 <div class="row align-items-stretch col-mb-50 mb-0">
                     <!-- Contact Form
                     ============================================= -->
-                    <div class="col-lg-6">
+                    <div class="col-lg-6" style="margin-top:30px;">
 
                         <div class="">
                             <p>
@@ -119,7 +146,7 @@ include 'elements/head.php'; ?>
 
                     <!-- Google Map
                     ============================================= -->
-                    <div class="col-lg-6 min-vh-50">
+                    <div class="col-lg-6 min-vh-50" style="margin-top:30px;">
                         <div class="gmap h-100" data-address="Langeweg 43,Breskens, Nederland" data-zoom="14" data-markers='[{address: "Langeweg 43,Breskens, Nederland", html: "<div class=\"p-2\" style=\"width: 300px;\"><h4 class=\"mb-2\">Hi! We are <span>Envato!</span></h4><p class=\"mb-0\" style=\"font-size:1rem;\">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day.</p></div>", icon:{ image: "images/icons/map-icon-red.png", iconsize: [32, 39], iconanchor: [32,39] } }]'></div>
                     </div><!-- Google Map End -->
                 </div>
