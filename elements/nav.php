@@ -11,14 +11,14 @@ include 'elements/model/currentNavFile.php';
 
 <!-- Header
 ============================================= -->
-<header id="header" class="header-size-sm border-bottom-0" data-sticky-shrink="false">
+<header id="header" class="header-size-sm border-bottom-0" data-sticky-shrink="false" style="margin-bottom: -40px;">
     <div id="header-wrap">
         <div class="container-fluid">
             <div class="header-row justify-content-lg-between">
 
 <!-- Logo
    ============================================= -->
-<div id="logo" class="mr-lg-5">
+<div id="logo" class="mr-lg-5 top-space">
     <a href="index.php" class="standard-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Canvas Logo"></a>
     <a href="index.php" class="retina-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Canvas Logo"></a>
 </div><!-- #logo end -->
