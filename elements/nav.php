@@ -34,9 +34,9 @@
         <li class="menu-item current"><a class="menu-link" href="index.php"><div>Home</div></a></li>
         <li class="menu-item"><a class="menu-link" href="advies.php"><div>Advies</div></a>
             <ul class="sub-menu-container">
-                <li class="menu-item"><a class="menu-link" href="#kleur"><div>Kleur advies</div></a></li>
-                <li class="menu-item"><a class="menu-link" href="#materialen"><div>Welke materialen</div></a></li>
-                <li class="menu-item"><a class="menu-link" href="#advies"><div>Advies plaatsing</div></a></li>
+                <li class="menu-item"><a class="menu-link" href="advies.php#kleur"><div>Kleur advies</div></a></li>
+                <li class="menu-item"><a class="menu-link" href="advies.php#materialen"><div>Welke materialen</div></a></li>
+                <li class="menu-item"><a class="menu-link" href="advies.php#advies"><div>Advies plaatsing</div></a></li>
             </ul>
         </li>
         <li class="menu-item"><a class="menu-link" href="Kleur-en-verf-advies.php"><div>Kleur & Verf Advies</div></a></li>
