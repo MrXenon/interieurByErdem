@@ -61,9 +61,8 @@ include 'elements/head.php'; ?>
                         <div class="slide-number"><div class="slide-number-current"></div><span>/</span><div class="slide-number-total"></div></div></div>
                 </div>
             </div>
-
         </div>
-        </br>
+    <br>
     </section>
 
     <!-- Content
