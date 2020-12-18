@@ -103,7 +103,7 @@ include 'elements/head.php'; ?>
                                 Van verf, vloeren, behang, gordijnen, raamdecoratie, horren tot buitenzonwering, sierlijsten, tafelzeil en woonaccessoires. U vindt het bij ons!
                             </p>
                             <p>
-                                Na aankoop, mits naar wens, alles worden uitgevoerd en aangebracht/gemonteerd via onze vaste partners: van schilderen, stucen,
+                                Bovendien kan na aankoop, mits naar wens, alles worden uitgevoerd en aangebracht/gemonteerd via onze vaste partners: van schilderen, stucen,
                                 vloeren plaatsen/leggen, tot het uitgebreid aankleden van de woning. De nodige kennis en vakmanschap is hiervoor aanwezig.
                             </p>
                             <p>Het hele huis kan met dit totaalpakket gestyled of gerestyled worden met als resultaat een fraai op elkaar afgestemd geheel.
