@@ -7,7 +7,7 @@ include 'elements/head.php'; ?>
 <title>Services | Interieur By Erdem</title>
 
 </head>
-
+<?php include 'elements/gdpr.php'; ?>
 <body class="stretched">
 
 <!-- Document Wrapper

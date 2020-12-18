@@ -9,7 +9,7 @@ include 'elements/head.php'; ?>
     <title>Contact | Interieur By Erdem</title>
 
 </head>
-
+<?php include 'elements/gdpr.php'; ?>
 <body class="stretched">
 
 <!-- Document Wrapper

@@ -1,0 +1,75 @@
+/*Align the title on the page's center*/
+.page-title {
+  text-align: center; }
+
+/*Privacy wrapper, zet the left and right margins of the page.*/
+.priv-wrap {
+  margin-left: 22%;
+  margin-right: 4%; }
+
+/*Privacy wrapper, align the title content in the middel of the page*/
+.priv-wrap h1, .priv-wrap h2, .priv-wrap h3, .priv-wrap h4, .priv-wrap h5, .priv-wrap h6 {
+  text-align: center; }
+
+/*Privacy wrapper, align the title content in the middel of the page - overwritten by admin page*/
+.admin h4 {
+  text-align: left !important; }
+
+/*===============================CHANGE COLOR START======================================*/
+/* Text alignment, height of blocks, border & spacing of each block. Only edit the border*/
+.priv-row-block {
+  border: solid 2px #000000;
+  /*RED - default color, insert the color of your primary web color here*/
+  margin: 10px 10px 10px 10px;
+  padding-top: 30px;
+  height: 250px;
+  text-align: center; }
+
+/*Set the color of all the titles*/
+.priv-wrap-pagina h1, .priv-wrap-pagina h2, .priv-wrap-pagina h3, .priv-wrap-pagina h4, .priv-wrap-pagina h5, .priv-wrap-pagina h6 {
+  color: #000000;
+  /*Change color to default website color*/ }
+
+/*===============================CHANGE COLOR END======================================*/
+/*Media querries voor index responsoviteit --------START--------*/
+/*Media query Laptop & desktop @ special screens*/
+@media (min-width: 992px) and (max-width: 1050px) {
+  .priv-row-block {
+    height: 275px; }
+
+  .priv-wrap {
+    margin-left: 20%;
+    margin-right: 0%; } }
+/*Media query Tablet*/
+@media (max-width: 769px) {
+  .priv-row-block {
+    height: 275px; }
+
+  .priv-wrap {
+    margin-left: 5%;
+    margin-right: 5%; } }
+/*Media query Mobile*/
+@media (max-width: 426px) {
+  .priv-row-block {
+    height: 250px; }
+
+  .priv-wrap {
+    margin-left: 5%;
+    margin-right: 5%; } }
+/*Media querries voor index responsoviteit --------EIND--------*/
+.priv-wrap-pagina {
+  margin-left: 10%;
+  margin-right: 10%; }
+
+/*Set the spacing between page tekst and title header*/
+.priv-wrap-pagina .row {
+  margin-top: 30px; }
+
+/*Hide from viewer*/
+.hfv {
+  display: none; }
+
+.back-btn {
+  margin-top: 30px; }
+
+/*# sourceMappingURL=style.css.map */

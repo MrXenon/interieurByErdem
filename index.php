@@ -12,7 +12,7 @@ include 'elements/head.php'; ?>
 <title>Home | Interieur By Erdem</title>
 
 </head>
-
+<?php include 'elements/gdpr.php'; ?>
 <body class="stretched">
 
 <!-- Document Wrapper
@@ -102,7 +102,7 @@ include 'elements/head.php'; ?>
 
             </div>
 
-            <div class="section mt-3" style="background: #FFF url('demos/nonprofit/images/others/1.jpg') no-repeat 100% 50% / auto 100%;">
+            <div class="section mt-3" style="background: #FFF url('elements/achtergrond/achtergrond1.png') no-repeat 100% 50% / auto 100%;">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-7 center">
@@ -176,7 +176,7 @@ include 'elements/head.php'; ?>
             <div class="line line-sm my-0 clearfix"></div>
             <div class="clear"></div>
             <div class="section section-details mb-0 bg-white" style="padding: 80px 0 160px;">
-                <div class="w-100 h-100 d-none d-md-block" style="position: absolute; top: 0; left: 0; background: #FFF url('demos/nonprofit/images/others/6.jpg') no-repeat bottom right / cover;"></div>
+                <div class="w-100 h-100 d-none d-md-block" style="position: absolute; top: 0; left: 0; background: #FFF url('elements/achtergrond/achtergrond2.png') no-repeat bottom right / cover;"></div>
                 <div class="container clearfix">
                     <div class="row">
                         <div class="col-md-8 px-8 mb-10">

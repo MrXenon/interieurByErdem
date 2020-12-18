@@ -154,18 +154,18 @@
                                 <div class="input-group-prepend">
                                     <div class="input-group-text"><i class="icon-user"></i></div>
                                 </div>
-                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Full Name" />
+                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Volleige naam" />
                             </div>
                             <div class="input-group mx-auto">
                                 <div class="input-group-prepend">
                                     <div class="input-group-text"><i class="icon-email2"></i></div>
                                 </div>
-                                <input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Email Address" />
+                                <input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="E-mail" />
                             </div>
-                            <textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
+                            <textarea class="required form-control input-block-level short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Bericht"></textarea>
                             <input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="" />
                             <input type="hidden" name="prefix" value="quick-contact-form-">
-                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-erdem  m-0" value="submit">Send Email</button>
+                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="btn btn-erdem  m-0" value="submit">Versturen</button>
 
                         </form>
 

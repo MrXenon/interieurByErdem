@@ -13,7 +13,7 @@ include 'elements/head.php'; ?>
 <title>Kleur & Verf Advies | Interieur By Erdem</title>
 
 </head>
-
+<?php include 'elements/gdpr.php'; ?>
 <body class="stretched">
 
 <!-- Document Wrapper

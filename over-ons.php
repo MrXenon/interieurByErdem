@@ -7,7 +7,7 @@ include 'elements/head.php'; ?>
     <title>Over ons | Interieur By Erdem</title>
 
 </head>
-
+<?php include 'elements/gdpr.php'; ?>
 <body class="stretched">
 
 <!-- Document Wrapper
@@ -26,13 +26,14 @@ include 'elements/head.php'; ?>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide dark">
                         <div class="container">
-                            <div class="slider-caption">
+                            <div class="slider-caption" style="float: right;">
                                 <div>
                                     <h2 class="nott" data-animate="fadeInUp">OVER ONS</h2>
+                                    <h4 class="nott" data-animate="fadeInUp">Interieur By Erdem</h4>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/pexels-ksenia-chernaya-5691631.jpg') no-repeat center center; background-size: cover;"></div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/ikram3.jpg') no-repeat center center; background-size: cover;"></div>
                     </div>
                 </div>
             </div>
