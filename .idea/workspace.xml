@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608154957266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Home pagina ingedeeld, alleen slider afbeelding &amp; logo content nodig. Footer contact &amp; reviews opgezet.">
+      <created>1608281276955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608281276955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,18 +148,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Home pagina ingedeeld, alleen slider afbeelding &amp; logo content nodig. Footer contact &amp; reviews opgezet." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="210" y="7" key="CommitChangelistDialog2" timestamp="1608281254339">
+    <state x="210" y="7" key="CommitChangelistDialog2" timestamp="1608281276049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608281254339" />
+    <state x="210" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608281276049" />
     <state x="481" y="128" key="MultipleFileMergeDialog" timestamp="1608219030125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="128" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1608219030125" />
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1608213893731">
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1608281288034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608213893731" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608281288034" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608219017576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

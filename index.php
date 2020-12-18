@@ -332,14 +332,14 @@ include 'elements/head.php'; ?>
                         <div class="clear"></div>
                         <div class="col-md-11 my-5">
                             <ul class="clients-grid grid-2 grid-sm-3 grid-md-4 mb-0">
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Akzonobel/AkzoNobel-Logo.png" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Akzonobel/AkzoNobel-Logo.png" height="230" alt="Clients"></a></li>
                                 <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Amazona/Amazona.png" alt="Clients"></a></li>
                                 <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/AS%20Creation/AS-Creation.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Bece/Bece.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/BN/BN-Walls.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Eijffinger/Eijffinger.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Multisol/Multisol_logo_zonder_witrand.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Sikkens/Sikkens.png" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Bece/Bece.png" height="240" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/BN/BN-Walls.png" height="180" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Eijffinger/Eijffinger.png" height="140" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Multisol/Multisol_logo_zonder_witrand.png" height="140" alt="Clients"></a></li>
+                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Sikkens/Sikkens.png" height="220" alt="Clients"></a></li>
                             </ul>
                         </div>
                         <h5 class="font-weight-normal text-black-50 mb-0">Wilt u met ons samenwerken? <a href="contact.php"><u>Verstuur ons dan uw gegevens</u></a>.</h5>
