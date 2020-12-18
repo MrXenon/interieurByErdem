@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608294353487</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt">
+      <created>1608302998816</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608302998816</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,5 +192,15 @@
     <MESSAGE value="nav header fixed" />
     <MESSAGE value="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt" />
     <option name="LAST_COMMIT_MESSAGE" value="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="7" key="CommitChangelistDialog2" timestamp="1608302997828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="181" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608302997828" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1608303003993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608303003993" />
   </component>
 </project>
