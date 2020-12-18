@@ -45,7 +45,7 @@ include 'elements/head.php'; ?>
     <!-- Content
     ============================================= -->
     <section id="content">
-        <div class="content-wrap py-0 overflow-visible">
+        <div class="content-wrap py-0 overflow-visible" style="padding-top: 30px !important;">
 
             <svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"/></svg>
 
@@ -80,7 +80,7 @@ include 'elements/head.php'; ?>
 
             </div>
 
-            <div class="section parallax dark bottommargin-lg" style="background-image: url('images/services/home-testi-bg.jpg'); background-size: cover; padding: 100px 0;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -500px;">
+            <div class="section parallax dark bottommargin-lg" style="background-image: url('elements/producten/behang3.JPG'); background-size: cover; padding: 100px 0;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -500px;">
 
                 <div class="container clearfix">
 
@@ -138,6 +138,16 @@ include 'elements/head.php'; ?>
                     </div>
 
                     <div class="col-lg-6">
+                        <img src="elements/producten/VGVerfEnWonen.JPG">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="elements/producten/verf3.JPG">
+                    </div>
+
+                    <div class="col-lg-6">
                         <h3>Alles wat u nodig heeft</h3>
                         <div class="svg-line bottommargin-sm">
                             <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
@@ -154,7 +164,7 @@ include 'elements/head.php'; ?>
                 </div>
             </div>
 
-            <div class="lock section parallax dark bottommargin-lg" style="margin-bottom: -40px !important; background-image: url('images/services/home-testi-bg.jpg'); background-size: cover; padding: 100px 0;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -500px;">
+            <div class="lock section parallax dark bottommargin-lg" style="margin-bottom: -40px !important; background-image: url('elements/producten/kleurStaal2.JPG'); background-size: cover; padding: 100px 0;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -500px;">
                 <div class="container clearfix">
 
                     <div class="row">

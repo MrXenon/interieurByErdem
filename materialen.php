@@ -86,7 +86,6 @@ include 'elements/head.php'; ?>
                             <div class="heading-block border-bottom-0 mb-4">
                                 <h3 class="mb-4 nott"></h3>
                             </div>
-
                         </div>
                         <div class="col-lg-6">
                             <h3>Een breed scala aan raamdecoraties </h3>
@@ -102,6 +101,26 @@ include 'elements/head.php'; ?>
                                 Uiteraard kunt u bij Interieur By Erdem ook terecht voor buitenzonwering: Rolluiken, markiezen, knikarmschermen en terrasoverkapping kunnen naar
                                 wens verzorgd, opgemeten en vakkundig geplaatst worden.
                             </p>
+                        </div>
+                        <div class="col-lg-6">
+                            <img src="elements/producten/raam1.JPG">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="section m-0 bg-transparent pt-0">
+                <div class="container clearfix">
+                    <div class="row">
+                        <div class="col-lg-12 center">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="mb-4 nott"></h3>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-6">
+                            <img src="elements/producten/interieur.JPG">
                         </div>
                         <div class="col-lg-6">
                             <h3>Woondecoraties </h3>
@@ -147,6 +166,25 @@ include 'elements/head.php'; ?>
                             </p>
                         </div>
                         <div class="col-lg-6">
+                            <img src="elements/producten/gordijn2.JPG">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section m-0 bg-transparent pt-0">
+                <div class="container clearfix">
+                    <div class="row">
+                        <div class="col-lg-12 center">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="mb-4 nott"></h3>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-6">
+                            <img src="elements/producten/vloer5.JPG">
+                        </div>
+                        <div class="col-lg-6">
                             <h3>Vloeren  </h3>
                             <div class="svg-line bottommargin-sm">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
@@ -161,41 +199,40 @@ include 'elements/head.php'; ?>
                                 Voor plafond en/of muren zijn ook voorbeelden van sierlijsten in de winkel te zien. Kom dus snel langs!
                             </p>
                         </div>
-
-                        <div class="section m-0 bg-transparent pt-0">
-                            <div class="container clearfix">
-                                <div class="row">
-                                    <div class="col-lg-12 center">
-                                        <div class="heading-block border-bottom-0 mb-4">
-                                            <h3 class="mb-4 nott"></h3>
-                                        </div>
-                                        <h2>Behang </h2>
-                                        <div class="svg-line bottommargin-sm">
-                                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3"></div>
-                                    <div class="col-lg-6">
-                                        <p>
-                                            Bij Interieur By Erdem heeft men de keuze uit meer dan 100 behangboeken.
-                                            Van het topmerk Eyffinger kan men zelfs de volledige collectie inzien!
-                                            Ook van andere merken zoals AS heeft men zowel normaal evenals vliesbehang.
-                                            Dit heeft als voordeel dat niet het behang maar de muur met lijm wordt bestreken.
-                                        </p>
-                                        <blockquote>
-                                            “Voor wie behang bij ons koopt maar zelf wil behangen hebben wij een stoomapparaat ter beschikking, wel zo handig!”.
-                                        </blockquote>
-                                    </div>
-                                    <div class="col-lg-3"></div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
 
+            <div class="section m-0 bg-transparent pt-0">
+                <div class="container clearfix">
+                    <div class="row">
+                        <div class="col-lg-12 center">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="mb-4 nott"></h3>
+                            </div>
 
-
+                        </div>
+                        <div class="col-lg-6">
+                            <h3>Behang </h3>
+                            <div class="svg-line bottommargin-sm">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
+                            </div>
+                            <p>
+                                Bij Interieur By Erdem heeft men de keuze uit meer dan 100 behangboeken.
+                                Van het topmerk Eyffinger kan men zelfs de volledige collectie inzien!
+                                Ook van andere merken zoals AS heeft men zowel normaal evenals vliesbehang.
+                                Dit heeft als voordeel dat niet het behang maar de muur met lijm wordt bestreken.
+                            </p>
+                            <blockquote>
+                                “Voor wie behang bij ons koopt maar zelf wil behangen hebben wij een stoomapparaat ter beschikking, wel zo handig!”.
+                            </blockquote>
+                        </div>
+                        <div class="col-lg-6">
+                            <img src="elements/producten/behang2.JPG">
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section><!-- #content end -->
 
@@ -203,9 +240,6 @@ include 'elements/head.php'; ?>
     include 'elements/footer.php';
     include 'elements/floating-contact.php';
     ?>
-
-
-
 </div><!-- #wrapper end -->
 
 <?php

@@ -292,7 +292,7 @@ include 'elements/head.php'; ?>
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
                                             <img src="demos/nonprofit/images/icons/animal.svg" alt="Featured Icon 4" width="50">
-                                        </div>
+                                    </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="services.php" class="text-dark">Services</a></h3>
                                             <p>Heeft u hulp nodig? Een van onze services is u helpen bij uw plaatsing.</p>
@@ -303,14 +303,8 @@ include 'elements/head.php'; ?>
                         </div>
 
                         <div class="col-lg-4 mt-5 mt-lg-0">
-                            <h3 class="mb-2">Latest Videos</h3>
-                            <div class="svg-line mb-2 clearfix">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
+                            <img src="elements/producten/raam4.JPG">
                             </div>
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit excepturi ipsa!</p>
-                            <div class="clear"></div>
-                            <a href="https://www.youtube.com/watch?v=VqmFKnHG5q8" data-lightbox="iframe" class="shadow-sm d-flex align-items-center justify-content-center play-video rounded position-relative bg-color mt-3 clearfix" style="background: linear-gradient(rgba(0,0,0,.05), rgba(0,0,0,.01)), url('demos/nonprofit/images/others/5.jpg') no-repeat center center / cover; height: 300px"><i class="icon-play"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>

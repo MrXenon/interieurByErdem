@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/elements/gdpr.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/advies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements/floating-contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/floating-contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-nonprofit-about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-nonprofit-causes-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-nonprofit-causes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-nonprofit-events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-nonprofit.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/elements/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8947.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8948.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8956.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8961.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8962.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8963.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8965.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8968.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8972.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8973.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8978.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8982.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/elements/producten/IMG_8982.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8987.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8994.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8996.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9024.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9025.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9027.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9028.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9030.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9034.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9036.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9037.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9038.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9040.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9042.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kleur-en-verf-advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/kleur-en-verf-advies.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/materialen.php" beforeDir="false" afterPath="$PROJECT_DIR$/materialen.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
@@ -22,31 +48,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="178" column="162" selection-start-line="178" selection-start-column="162" selection-end-line="178" selection-end-column="162" />
+            <state relative-caret-position="476">
+              <caret line="292" column="100" lean-forward="true" selection-start-line="292" selection-start-column="100" selection-end-line="292" selection-end-column="100" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/over-ons.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+            <state relative-caret-position="509">
+              <caret line="91" column="30" lean-forward="true" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +136,8 @@
         <option value="$PROJECT_DIR$/elements/model/currentNavFile.php" />
         <option value="$PROJECT_DIR$/elements/nav.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/elements/footer.php" />
         <option value="$PROJECT_DIR$/elements/floating-contact.php" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/materialen.php" />
-        <option value="$PROJECT_DIR$/services.php" />
         <option value="$PROJECT_DIR$/kleur-en-verf-advies.php" />
         <option value="$PROJECT_DIR$/advies.php" />
         <option value="$PROJECT_DIR$/elements/gdpr.php" />
@@ -108,8 +146,11 @@
         <option value="$PROJECT_DIR$/privacy-plugin/index.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/cookiebeleid.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/algemene-voorwaarden.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/elements/footer.php" />
+        <option value="$PROJECT_DIR$/materialen.php" />
+        <option value="$PROJECT_DIR$/services.php" />
         <option value="$PROJECT_DIR$/over-ons.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -136,6 +177,12 @@
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
               <item name="elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="producten" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
@@ -190,7 +237,7 @@
       <workItem from="1608154826120" duration="144000" />
       <workItem from="1608193294854" duration="19817000" />
       <workItem from="1608221125575" duration="999000" />
-      <workItem from="1608280397875" duration="6748000" />
+      <workItem from="1608280397875" duration="11310000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608028350699</created>
@@ -276,20 +323,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608222104283</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt">
+      <created>1608294353487</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608294353487</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58019000" />
+    <option name="totallyTimeSpent" value="62581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928178" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -318,7 +373,8 @@
     <MESSAGE value="Services &amp; over ons pagina aangemaakt, advies pagina bezig." />
     <MESSAGE value="Logo's in samenwerking met toegevoegd" />
     <MESSAGE value="nav header fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav header fixed" />
+    <MESSAGE value="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Product foto's toegevoegd, over ons header aangepast, privacy instellingen ingevoegd en footer contact vertaalt" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-nonprofit.html">
@@ -494,31 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="167" column="165" selection-start-line="167" selection-start-column="165" selection-end-line="167" selection-end-column="165" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/materialen.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -583,28 +618,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/elements/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="178" column="162" selection-start-line="178" selection-start-column="162" selection-end-line="178" selection-end-column="162" />
+        <state relative-caret-position="475">
+          <caret line="156" column="169" selection-start-line="156" selection-start-column="169" selection-end-line="156" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/over-ons.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        <state relative-caret-position="509">
+          <caret line="91" column="30" lean-forward="true" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="292" column="100" lean-forward="true" selection-start-line="292" selection-start-column="100" selection-end-line="292" selection-end-column="100" />
+          <folding>
             <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

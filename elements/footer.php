@@ -154,7 +154,7 @@
                                 <div class="input-group-prepend">
                                     <div class="input-group-text"><i class="icon-user"></i></div>
                                 </div>
-                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Volleige naam" />
+                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Volledige naam" />
                             </div>
                             <div class="input-group mx-auto">
                                 <div class="input-group-prepend">
