@@ -136,7 +136,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-4">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/home.svg" alt="Featured Icon 1" width="50">
+                                            <img src="demos/nonprofit/images/icons/paint-bucket.svg" alt="Featured Icon 1" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="advies.php" class="text-dark">Als u kiest voor kwaliteit</a></h3>
@@ -149,7 +149,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-4">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/health.svg" alt="Featured Icon 2" width="50">
+                                            <img src="demos/nonprofit/images/icons/social-care.svg" alt="Featured Icon 2" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Als u graag persoonlijk wordt geholpen</a></h3>
@@ -163,7 +163,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-4">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/education.svg" alt="Featured Icon 3" width="50">
+                                            <img src="demos/nonprofit/images/icons/shop.svg" alt="Featured Icon 3" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="materialen.php" class="text-dark">Als u alles voor uw woning op één plaats wilt vinden</a></h3>

@@ -159,7 +159,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/home.svg" alt="Featured Icon 1" width="50">
+                                            <img src="demos/nonprofit/images/icons/assigment.svg" alt="Featured Icon 1" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="advies.php" class="text-dark">Advies</a></h3>
@@ -171,7 +171,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/health.svg" alt="Featured Icon 2" width="50">
+                                            <img src="demos/nonprofit/images/icons/color-palette.svg" alt="Featured Icon 2" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf Advies</a></h3>
@@ -183,7 +183,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/education.svg" alt="Featured Icon 3" width="50">
+                                            <img src="demos/nonprofit/images/icons/brush.svg" alt="Featured Icon 3" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="materialen.php" class="text-dark">Materialen/Producten</a></h3>
@@ -194,7 +194,7 @@ include 'elements/head.php'; ?>
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
-                                            <img src="demos/nonprofit/images/icons/animal.svg" alt="Featured Icon 4" width="50">
+                                            <img src="demos/nonprofit/images/icons/technical-support.svg" alt="Featured Icon 4" width="50">
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="services.php" class="text-dark">Services</a></h3>
