@@ -8,9 +8,16 @@
 
 include 'elements/head.php'; ?>
 
+<!-- Document Meta tags (SEO)
+============================================= -->
+<meta name="title" content="Materialen | Interieur By Erdem">
+<meta name="description" content="Bent u op zoek naar de bijpassende materialen voor uw interieur? Misschien liever een geheel nieuw interieur. Wij kunnen u hierbij helpen.">
+<meta name="keywords" content="Interieur materialen Erdem">
+<meta name="robots" content="index, follow">
+
 <!-- Document Title
 ============================================= -->
-<title>Advies | Interieur By Erdem</title>
+<title>Materialen | Interieur By Erdem</title>
 
 </head>
 <?php include 'elements/gdpr.php'; ?>

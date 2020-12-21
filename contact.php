@@ -1,8 +1,12 @@
 <?php
 include 'elements/head.php'; ?>
 
-
-
+<!-- Document Meta tags (SEO)
+============================================= -->
+<meta name="title" content="Contact | Interieur By Erdem">
+<meta name="description" content="heeft u een vraag of wilt u meer weten? Hier kunt u contact opnemen met Interieur By Erdem.">
+<meta name="keywords" content="Interieur contact Erdem">
+<meta name="robots" content="index, follow">
 
     <!-- Document Title
     ============================================= -->

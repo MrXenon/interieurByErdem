@@ -1,6 +1,14 @@
 <?php
 include 'elements/head.php'; ?>
 
+<!-- Document Meta tags (SEO)
+============================================= -->
+<meta name="title" content="Services | Interieur By Erdem">
+<meta name="description" content="Het kan voorkomen dat u iets koopt en geen idee heeft hoe u het in elkaar moet zetten,
+hier bij Interieur By Erdem kunnen wij dit probleem voor u uit handen nemen.
+Onze service dienst zet graag uw gekochte product voor u in elkaar.">
+<meta name="keywords" content="Interieur services Erdem">
+<meta name="robots" content="index, follow">
 
 <!-- Document Title
 ============================================= -->

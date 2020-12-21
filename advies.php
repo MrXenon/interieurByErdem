@@ -8,6 +8,14 @@
 
 include 'elements/head.php'; ?>
 
+<!-- Document Meta tags (SEO)
+============================================= -->
+<meta name="title" content="Advies | Interieur By Erdem">
+<meta name="description" content="Bij interieur By Erdem kunnen wij  het beste advies geven om uw interieur te realiseren.
+Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u mee helpen.">
+<meta name="keywords" content="Interieur advies Erdem">
+<meta name="robots" content="index, follow">
+
 <!-- Document Title
 ============================================= -->
 <title>Advies | Interieur By Erdem</title>
