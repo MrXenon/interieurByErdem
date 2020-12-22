@@ -42,3 +42,6 @@ blockquote{
 .top-space{
     padding-top: 10px;
 }
+.subtitle, .subtitle a {
+    color: #48555F !important;
+}

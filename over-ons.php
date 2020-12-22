@@ -99,19 +99,19 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                         </div>
 
                         <div class="col-lg-3 text-center" data-animate="bounceIn" data-delay="200">
-                            <i class="i-plain i-large mx-auto mb-0 icon-code"></i>
+                            <i class="i-plain i-large mx-auto mb-0 icon-line-user-check"></i>
                             <div class="counter counter-lined"><span data-from="100" data-to="16265" data-refresh-interval="50" data-speed="2500" data-comma="true"></span></div>
                             <h5>Tevreden klanten</h5>
                         </div>
 
                         <div class="col-lg-3 text-center" data-animate="bounceIn" data-delay="400">
-                            <i class="i-plain i-large mx-auto mb-0 icon-briefcase"></i>
+                            <i class="i-plain i-large mx-auto mb-0 icon-boxes"></i>
                             <div class="counter counter-lined"><span data-from="100" data-to="11265" data-refresh-interval="50" data-speed="3500" data-comma="true"></span></div>
                             <h5>Producten geleverd</h5>
                         </div>
 
                         <div class="col-lg-3 text-center" data-animate="bounceIn" data-delay="600">
-                            <i class="i-plain i-large mx-auto mb-0 icon-dribbble2"></i>
+                            <i class="i-plain i-large mx-auto mb-0 icon-chat-3"></i>
                             <div class="counter counter-lined"><span data-from="25" data-to="3500" data-refresh-interval="30" data-speed="2700" data-comma="true"></span></div>
                             <h5>Adviezen gegeven</h5>
                         </div>

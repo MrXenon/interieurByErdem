@@ -223,25 +223,25 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                     <div class="row align-items-stretch m-0 w-100 clearfix">
 
                         <div class="col-lg-3 col-sm-6 center mt-5">
-                            <img src="demos/nonprofit/images/icons/breakfast.svg" alt="Counter Icon" width="70" class="mb-4">
+                            <i class="i-plain i-large mx-auto mb-0 icon-boxes"></i>
                             <div class="counter font-secondary"><span data-from="100" data-to="11265" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
                             <h5 class="nott ls0 mt-0"><u>Producten geleverd</u></h5>
                         </div>
 
                         <div class="col-lg-3 col-sm-6 center mt-5">
-                            <img src="demos/nonprofit/images/icons/volunteers.svg" alt="Counter Icon" width="70" class="mb-4">
+                            <i class="i-plain i-large mx-auto mb-0 icon-line-user-check"></i>
                             <div class="counter font-secondary"><span data-from="100" data-to="16265" data-refresh-interval="50" data-speed="2200" data-comma="true"></span>+</div>
                             <h5 class="nott ls0 mt-0"><u>Tevreden klanten</u></h5>
                         </div>
 
                         <div class="col-lg-3 col-sm-6 center mt-5">
-                            <img src="demos/nonprofit/images/icons/educated.svg" alt="Counter Icon" width="70" class="mb-4">
+                            <i class="i-plain i-large mx-auto mb-0 icon-chat-3"></i>
                             <div class="counter font-secondary"><span data-from="100" data-to="3500" data-refresh-interval="25" data-speed="2300" data-comma="true"></span>+</div>
                             <h5 class="nott ls0 mt-0"><u>Adviezen gegeven</u></h5>
                         </div>
 
                         <div class="col-lg-3 col-sm-6 center mt-5">
-                            <img src="demos/nonprofit/images/icons/shelter.svg" alt="Counter Icon" width="70" class="mb-4">
+                            <i class="i-plain i-large mx-auto mb-0 icon-line-tool"></i>
                             <div class="counter font-secondary"><span data-from="150" data-to="1500" data-refresh-interval="50" data-speed="2100" data-comma="true"></span>+</div>
                             <h5 class="nott ls0 mt-0"><u>Klanten geholpen bij installatie</u></h5>
                         </div>
