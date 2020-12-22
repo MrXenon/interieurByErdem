@@ -62,7 +62,7 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                     <div class="col-lg-6">
                         <h3>Interieur By Erdem, voor al uw woonwensen! </h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>
                             Interieur By Erdem, zo luidt sinds 1 januari 2020 de nieuwe naam van de verf-en woonwinkel aan de Langeweg te Breskens.
@@ -74,7 +74,7 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                     <div class="col-lg-6">
                         <h3>Ikram realiseert uw wens</h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>Ikram gaat voor topkwaliteit en laat niets aan het toeval over.
                             Als het nodig is roept ze de hulp van specialisten in.
@@ -127,7 +127,7 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                     <div class="col-lg-6">
                         <h3>VG Verf & Wonen </h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>
                             In 2016 begon Ikram met een compagnon het bedrijf VG Verf & Wonen.
@@ -157,7 +157,7 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                     <div class="col-lg-6">
                         <h3>Alles wat u nodig heeft</h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
 
                         <p>

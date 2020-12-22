@@ -195,7 +195,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                                 <h3 class="mb-4 nott">Kleur advies</h3>
                             </div>
                             <div class="svg-line bottommargin-sm">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -224,7 +224,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                                 <h3 class="mb-4 nott">Welke materialen</h3>
                             </div>
                             <div class="svg-line bottommargin-sm">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -253,7 +253,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                                 <h3 class="mb-4 nott">Advies plaatsing</h3>
                             </div>
                             <div class="svg-line bottommargin-sm">
-                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                                <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
                         </div>
                         <div class="col-lg-6">

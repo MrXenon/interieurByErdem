@@ -34,7 +34,7 @@
 <h4>Algemene informatie</h4>
 <ul>
 <li>Projectnaam: Interieur By Erdem</li>
-<li>Sitenaam: https://interieirbyerdem.nl</li>
+<li>Sitenaam: https://interieurbyerdem.nl</li>
 <li>Email: info@interieurbyerdem.nl</li>
 </ul>
 

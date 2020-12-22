@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/advies.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +17,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="596">
+                <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="162" column="51" lean-forward="true" selection-start-line="162" selection-start-column="51" selection-end-line="162" selection-end-column="51" />
+            <state relative-caret-position="-1870">
+              <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/over-ons.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="159" column="103" selection-start-line="159" selection-start-column="103" selection-end-line="159" selection-end-column="103" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
+        <entry file="file://$PROJECT_DIR$/advies.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="269">
+              <caret line="197" column="108" selection-start-line="197" selection-start-column="108" selection-end-line="197" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -75,7 +96,6 @@
         <option value="$PROJECT_DIR$/elements/footer-scripts.php" />
         <option value="$PROJECT_DIR$/include/form.php" />
         <option value="$PROJECT_DIR$/demos/nonprofit/css/fonts.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/currentNavFile.php" />
         <option value="$PROJECT_DIR$/elements/model/currentNavFile.php" />
         <option value="$PROJECT_DIR$/elements/nav.php" />
@@ -87,14 +107,15 @@
         <option value="$PROJECT_DIR$/privacy-plugin/cookiebeleid.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/algemene-voorwaarden.php" />
         <option value="$PROJECT_DIR$/elements/footer.php" />
-        <option value="$PROJECT_DIR$/services.php" />
         <option value="$PROJECT_DIR$/materialen.php" />
         <option value="$PROJECT_DIR$/kleur-en-verf-advies.php" />
-        <option value="$PROJECT_DIR$/advies.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/over-ons.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/services.php" />
+        <option value="$PROJECT_DIR$/over-ons.php" />
+        <option value="$PROJECT_DIR$/advies.php" />
       </list>
     </option>
   </component>
@@ -185,7 +206,7 @@
       <workItem from="1608374345292" duration="1576000" />
       <workItem from="1608542516598" duration="594000" />
       <workItem from="1608555319411" duration="12398000" />
-      <workItem from="1608638709210" duration="1004000" />
+      <workItem from="1608638709210" duration="1610000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608028350699</created>
@@ -306,11 +327,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608562848710</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="html icons op index &amp; over-ons aangepast naar passende icons.">
+      <created>1608639964614</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608639964614</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81936000" />
+    <option name="totallyTimeSpent" value="82542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -375,7 +403,8 @@
     <MESSAGE value="advies tekst aangepast" />
     <MESSAGE value="Ikram header link aangepast" />
     <MESSAGE value="SEO meta toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEO meta toegevoegd" />
+    <MESSAGE value="html icons op index &amp; over-ons aangepast naar passende icons." />
+    <option name="LAST_COMMIT_MESSAGE" value="html icons op index &amp; over-ons aangepast naar passende icons." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-nonprofit.html" />
@@ -555,16 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="596">
-            <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/font-icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="730">
@@ -593,31 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
           <caret line="237" column="84" lean-forward="true" selection-start-line="237" selection-start-column="28" selection-end-line="237" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/over-ons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="113" column="84" selection-start-line="113" selection-start-column="84" selection-end-line="113" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -626,17 +624,48 @@
         <state relative-caret-position="-663" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="162" column="51" lean-forward="true" selection-start-line="162" selection-start-column="51" selection-end-line="162" selection-end-column="51" />
+        <state relative-caret-position="747">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="-253">
+          <caret line="167" column="38" selection-start-line="167" selection-start-column="38" selection-end-line="167" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="596">
+            <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1870">
+          <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/over-ons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="159" column="103" selection-start-line="159" selection-start-column="103" selection-end-line="159" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="197" column="108" selection-start-line="197" selection-start-column="108" selection-end-line="197" selection-end-column="108" />
         </state>
       </provider>
     </entry>

@@ -62,7 +62,7 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                     <div class="col-lg-6">
                         <h3>Klant is koning </h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>
                             Interieur By Erdem onderscheidt zich door de klantgerichte aanpak en zeer persoonlijke benadering van de klant. “Schilderen, behangen, het aanbrengen van raamdecoratie, inclusief opmeten en ophangen van gordijnen doen we zelf.’’<br><br>
@@ -74,7 +74,7 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                     <div class="col-lg-6">
                         <h3>Ikram realiseert uw wens</h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>Ikram: Als mensen b.v. onzeker zijn over de aanschaf van een bepaald product of toepassing, of omdat ze niet weten wat ze precies nodig hebben, leggen wij uit welke keuze voor hen het beste is en wat ze precies nodig hebben, zonder af te dwingen natuurlijk. We staan altijd klaar voor de klant. Mochten wij op een vraag geen antwoord weten, gaan we te rade bij een externe specialist of vertegenwoordiger. Hier gaat niemand naar buiten zonder een oplossing, zelfs al vinden we die niet bij ons in de winkel. Je moet er altijd voor zorgen dat klanten terugkomen. Persoonlijk denk ik in de volledige breedte na voor onze klanten.
 
@@ -119,7 +119,7 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                     <div class="col-lg-6">
                         <h3>VG Verf & Wonen </h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
                         <p>
                             In 2016 begon Ikram met een compagnon het bedrijf VG Verf & Wonen.
@@ -139,7 +139,7 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                     <div class="col-lg-6">
                         <h3>Alles wat u nodig heeft</h3>
                         <div class="svg-line bottommargin-sm">
-                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
+                            <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                         </div>
 
                         <p>
