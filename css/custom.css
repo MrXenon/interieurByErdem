@@ -45,3 +45,9 @@ blockquote{
 .subtitle, .subtitle a {
     color: #48555F !important;
 }
+.space{
+    margin-top:50px !important;
+}
+.btn-erdem{
+    background-color: #C6C09C;
+}

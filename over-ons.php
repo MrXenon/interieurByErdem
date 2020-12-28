@@ -140,7 +140,6 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                             ‘’Op de eerste plaats om de maten op te nemen. Daarnaast is het ook veel beter als ik bij de mensen thuis de mogelijkheden kan zien.
                             Zo kan ik bijvoorbeeld een veel beter kleuradvies geven, want de lichtinval en het interieur is overal anders en dat kan je op de plaats waar het
                             moet komen het beste zien.’’
-
                         </p>
                     </div>
 
@@ -149,7 +148,7 @@ Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row space">
                     <div class="col-lg-6">
                         <img src="elements/producten/verf3.JPG">
                     </div>

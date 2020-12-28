@@ -111,12 +111,12 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
 
             </div>
 
-            <div class="section mt-3" style="background: #FFF url('elements/achtergrond/achtergrond1.png') no-repeat 100% 50% / auto 100%;">
+            <div class="section mt-3" style="background: #FFF url('') no-repeat 100% 50% / auto 100%;">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-7 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Home</h2>
+                                <h2 class="mb-4 nott">Interieur by Erdem</h2>
                             </div>
                             <div class="svg-line bottommargin-sm">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="20">
@@ -132,7 +132,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                             </div>
                     </div>
                     <div class="row mt-5 col-mb-50 mb-0">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="feature-box flex-column pl-0">
                                 <div class="fbox-media position-relative">
                                     <img src="demos/nonprofit/images/icons/paint-bucket.svg" alt="Featured Icon" width="60" class="mb-3">
@@ -142,38 +142,44 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                     <p>Door het gebruik van kwaliteitsverf gaat ons gepartnerd schildersbedrijf alleen voor het allerbeste.
                                         Gekozen werd voor Sikkens, een topper onder de verven, met Flexa als nevenmerk (in de categorie Sigma en Histor), beiden geproduceerd bij Akzo Nobel.
                                         Het Erkend Sikkens predicaat 2016 en 2017 (elk jaar controle) spreekt boekdelen over hun inzet.</p>
+                                </div>
+                                <div class="fbox-content px-0">
                                     <a href="kleur-en-verf-advies.php" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Kleur & verf advies</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="feature-box flex-column pl-0">
                                 <div class="fbox-media position-relative">
                                     <img src="demos/nonprofit/images/icons/social-care.svg" alt="Featured Icon" width="60" class="mb-3">
                                 </div>
                                 <div class="fbox-content px-0">
-                                    <h3 class="nott ls0"><a href="#" class="text-dark">Als u graag persoonlijk wordt geholpen</a></h3>
+                                    <h3 class="nott ls0"><a href="#" class="text-dark">Persoonlijk en vakkundig</a></h3>
                                     <p>Wij komen graag persoonlijk bij de mensen langs om de diverse mogelijkheden te bespreken en advies te geven, ook bij kleine opdrachten.
                                         Iedere situatie of plek vraagt om een specifieke benadering. En daarbij willen wij graag van dienst zijn.
                                         Dat geldt niet alleen voor het schilderwerk, maar ook voor behangwerk.
                                         Wat moet er allemaal gebeuren voordat de muur behangen wordt?
                                         Wij kijken graag gedetailleerd met u mee.</p>
+                                </div>
+                                <div class="fbox-content px-0">
                                     <a href="services.php" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Services</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="feature-box flex-column pl-0">
                                 <div class="fbox-media position-relative">
                                     <img src="demos/nonprofit/images/icons/shop.svg" alt="Featured Icon" width="60" class="mb-3">
                                 </div>
                                 <div class="fbox-content px-0">
-                                    <h3 class="nott ls0"><a href="#" class="text-dark">Als u alles voor uw woning op één plaats wilt vinden</a></h3>
+                                    <h3 class="nott ls0"><a href="#" class="text-dark">Alles voor uw woning op 1 plek</a></h3>
                                     <p>Bij Interieur By Erdem hebben we alles in huis om het de klant zo makkelijk mogelijk te maken.
                                         Men kan bij ons kiezen uit de vele mogelijkheden op alle gebieden van het wooncomfort.
                                         Wij helpen u graag bij het maken van de beste productkeuze voor de gewenste bestemming voor u en uw portemonnee.</p>
+                                </div>
+                                <div class="fbox-content px-0">
                                     <a href="materialen.php" class="button button-rounded button-border nott ls0 font-weight-normal ml-0 mt-4">Materialen & Producten</a>
                                 </div>
                             </div>
@@ -182,7 +188,6 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                 </div>
             </div>
 
-            <div class="line line-sm my-0 clearfix"></div>
             <div class="clear"></div>
             <div class="section section-details mb-0 bg-white" style="padding: 80px 0 160px;">
                 <div class="w-100 h-100 d-none d-md-block" style="position: absolute; top: 0; left: 0; background: #FFF url('elements/achtergrond/achtergrond2.png') no-repeat bottom right / cover;"></div>
@@ -215,7 +220,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
             <div class="clear"></div>
 
             <div class="container-fluid my-5 clearfix">
-                <div class="d-flex flex-column align-items-center justify-content-center center counter-section position-relative py-5" style="background: url('demos/nonprofit/images/world-map.png') no-repeat center center/ contain">
+                <div class="d-flex flex-column align-items-center justify-content-center center counter-section position-relative py-5" style="background: url('') no-repeat center center/ contain">
                     <div class="mx-auto center" style="max-width: 1000px">
                         <h3>Onze persoonlijke en zorgvuldige aanpak maakt ons een uniek bedrijf.</h3>
                     </div>
@@ -256,7 +261,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                 <div class="container clearfix">
                     <div class="row">
                         <div class="col-lg-8">
-                            <h3 class="mb-2">Onze diensten</h3>
+                            <h3 class="mb-2">Onze diensten - Interieur by Erdem</h3>
                             <div class="svg-line mb-2 clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="10">
                             </div>
@@ -265,7 +270,9 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="advies.php">
                                             <img src="demos/nonprofit/images/icons/assigment.svg" alt="Featured Icon 1" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="advies.php" class="text-dark">Advies</a></h3>
@@ -277,7 +284,9 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="kleur-en-verf-advies.php">
                                             <img src="demos/nonprofit/images/icons/color-palette.svg" alt="Featured Icon 2" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf Advies</a></h3>
@@ -289,7 +298,9 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="materialen.php">
                                             <img src="demos/nonprofit/images/icons/brush.svg" alt="Featured Icon 3" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="materialen.php" class="text-dark">Materialen/Producten</a></h3>
@@ -300,7 +311,9 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="services.php">
                                             <img src="demos/nonprofit/images/icons/technical-support.svg" alt="Featured Icon 4" width="50">
+                                            </a>
                                     </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="services.php" class="text-dark">Services</a></h3>
@@ -323,7 +336,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                     <div class="row justify-content-center">
                         <div class="col-md-7 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Wij werken met deze merken</h2>
+                                <h2 class="mb-4 nott">Bij Interieur by Erdem werken we met de volgende merken</h2>
                             </div>
                             <div class="svg-line bottommargin-sm clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="15">
@@ -335,22 +348,20 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                         <div class="clear"></div>
                         <div class="col-md-11 my-5">
                             <ul class="clients-grid grid-2 grid-sm-3 grid-md-4 mb-0">
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Akzonobel/AkzoNobel-Logo.png" height="230" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Amazona/Amazona.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/AS%20Creation/AS-Creation.png" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Bece/Bece.png" height="240" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/BN/BN-Walls.png" height="180" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Eijffinger/Eijffinger.png" height="140" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Multisol/Multisol_logo_zonder_witrand.png" height="140" alt="Clients"></a></li>
-                                <li class="grid-item"><a href="#"><img src="elements/logos-in-samenwerking-met/Sikkens/Sikkens.png" height="220" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://www.akzonobel.com/en/nl"><img src="elements/logos-in-samenwerking-met/Akzonobel/AkzoNobel-Logo.png" height="230" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://www.krijtverf-kalkwas.nl/"><img src="elements/logos-in-samenwerking-met/Amazona/Amazona.png" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="http://www.as-creation.nl/home.html"><img src="elements/logos-in-samenwerking-met/AS%20Creation/AS-Creation.png" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://www.bece.nl/"><img src="elements/logos-in-samenwerking-met/Bece/Bece.png" height="240" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://bnwalls.com/athome"><img src="elements/logos-in-samenwerking-met/BN/BN-Walls.png" height="180" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://www.eijffinger.com/nl-NL"><img src="elements/logos-in-samenwerking-met/Eijffinger/Eijffinger.png" style="margin-top: 50px;" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="http://www.multisol.nl/"><img src="elements/logos-in-samenwerking-met/Multisol/Multisol_logo_zonder_witrand.png" style="margin-top: 50px;" alt="Clients"></a></li>
+                                <li class="grid-item"><a target="_blank" href="https://www.sikkens.nl/nl"><img src="elements/logos-in-samenwerking-met/Sikkens/Sikkens.png" height="220" alt="Clients"></a></li>
                             </ul>
                         </div>
                         <h5 class="font-weight-normal text-black-50 mb-0">Wilt u met ons samenwerken? <a href="contact.php"><u>Verstuur ons dan uw gegevens</u></a>.</h5>
                     </div>
                 </div>
             </div>
-
-
     </section><!-- #content end -->
 
 <?php

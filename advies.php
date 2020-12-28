@@ -209,6 +209,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                             <p>
                                 Kom gerust eens langs om de mogelijkheden voor uw inrichting te bespreken!
                             </p>
+                            <a href="kleur-en-verf-advies.php" class="btn btn-erdem">Kleur advies</a>
                         </div>
                         <div class="col-lg-6">
                             <img style="height:300px; width:auto;" src="elements/vg-images/Verfwinkel-VG-Wonen-Breskens-101-1024x683.jpg" alt="Verf tegels">
@@ -243,6 +244,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                             <p>
                                 Schroom niet en vraag naar al onze mogelijkheden!
                             </p>
+                            <a href="materialen.php" class="btn btn-erdem">Materialen</a>
                         </div>
                     </div>
                     <div id="advies"><br><br></div>
@@ -271,6 +273,7 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                             <p>
                                 Onze specialisten helpen u graag met het plaatsen van om het even wat u vindt in onze winkel!
                             </p>
+                            <a href="services.php" class="btn btn-erdem">Advies plaatsing</a>
                         </div>
                         <div class="col-lg-6">
                             <img style="height:300px; width:auto;" src="elements/slider/13.jpg" alt="Vloer leggen">
@@ -278,7 +281,18 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                     </div>
                 </div>
             </div>
-
+        </div>
+        <div class="section" style="padding: 80px 0; margin: 0 0; background-color: #D7D4C8;">
+            <div class="container clearfix">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 center">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="mb-4 nott">Benieuwd naar wat Interieur By Erdem voor u kan betekenen</h3>
+                        </div>
+                        <a href="contact.php" class="btn btn-dark">Neem vrijblijvend contact op </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </section><!-- #content end -->
 

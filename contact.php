@@ -69,7 +69,7 @@ include 'elements/head.php'; ?>
                             </blockquote>
                         </div>
                         <div class="fancy-title title-border">
-                            <h3>Neem contact op</h3>
+                            <h3>Neem contact met ons op</h3>
                         </div>
 
                         <div class="form-widget">
@@ -196,10 +196,10 @@ include 'elements/head.php'; ?>
                     <div class="col-sm-6 col-lg-3">
                         <div class="feature-box fbox-center fbox-bg fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><i class="icon-twitter2"></i></a>
+                                <a href="https://www.facebook.com/vgverf"><i class="icon-facebook2"></i></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Follow on Twitter<span class="subtitle">2.3M Followers</span></h3>
+                                <h3>Volg ons op Facebook<span class="subtitle">593 Volgers</span></h3>
                             </div>
                         </div>
                     </div>

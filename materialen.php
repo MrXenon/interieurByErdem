@@ -241,6 +241,18 @@ include 'elements/head.php'; ?>
                 </div>
             </div>
         </div>
+        <div class="section" style="padding: 80px 0; margin: 0 0; background-color: #D7D4C8;">
+            <div class="container clearfix">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 center">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="mb-4 nott">Benieuwd naar wat Interieur By Erdem voor u kan betekenen</h3>
+                        </div>
+                        <a href="contact.php" class="btn btn-dark">Neem vrijblijvend contact op </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section><!-- #content end -->
 
     <?php

@@ -22,7 +22,7 @@
 
                         <a href="index.php"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Image" class="footer-logo"></a>
 
-                        <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
+                        <div style="background: url('') no-repeat center center; background-size: 100%;">
                             <address>
                                 <strong>Locatie:</strong><br>
                                 <a target="_blank" href="https://www.google.nl/maps/place/Langeweg+43,+4511+GB+Breskens/@51.3960546,3.551225,15.5z/data=!4m5!3m4!1s0x47c4993dbbe3f487:0xd68ec4d9a4763af2!8m2!3d51.3965715!4d3.5513147">
@@ -51,10 +51,10 @@
                                             <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
                                         </div>
                                         <div class="testi-content">
-                                            <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
+                                            <p>Veel keuze en zeer vriendelijk!</p>
                                             <div class="testi-meta">
-                                                Steve Jobs
-                                                <span>Apple Inc.</span>
+                                                Elise van der Lijke
+                                                <span>Klant</span>
                                             </div>
                                         </div>
                                     </div>
@@ -90,44 +90,14 @@
 
                     <div class="widget clearfix">
 
-                        <a href="#" class="social-icon si-small si-rounded si-facebook">
+                        <a href="https://www.facebook.com/vgverf"  target="_blank" class="social-icon si-small si-rounded si-facebook">
                             <i class="icon-facebook"></i>
                             <i class="icon-facebook"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-rounded si-twitter">
-                            <i class="icon-twitter"></i>
-                            <i class="icon-twitter"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-gplus">
-                            <i class="icon-gplus"></i>
-                            <i class="icon-gplus"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-pinterest">
-                            <i class="icon-pinterest"></i>
-                            <i class="icon-pinterest"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-vimeo">
-                            <i class="icon-vimeo"></i>
-                            <i class="icon-vimeo"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-github">
-                            <i class="icon-github"></i>
-                            <i class="icon-github"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-yahoo">
-                            <i class="icon-yahoo"></i>
-                            <i class="icon-yahoo"></i>
-                        </a>
-
-                        <a href="#" class="social-icon si-small si-rounded si-linkedin">
-                            <i class="icon-linkedin"></i>
-                            <i class="icon-linkedin"></i>
+                        <a href="https://www.instagram.com/interieurbyerdem/?hl=nl" target="_blank" class="social-icon si-small si-rounded si-instagram">
+                            <i class="icon-instagram"></i>
+                            <i class="icon-instagram"></i>
                         </a>
 
                     </div>
