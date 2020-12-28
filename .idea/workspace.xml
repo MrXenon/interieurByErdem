@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b7882b64-cbdc-49a9-bfc5-0a61c5488264" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/advies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/footer.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,40 +15,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="596">
-                <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.php">
+        <entry file="file://$PROJECT_DIR$/advies.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1870">
-              <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/over-ons.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="159" column="103" selection-start-line="159" selection-start-column="103" selection-end-line="159" selection-end-column="103" />
+            <state relative-caret-position="1833">
+              <caret line="220" selection-start-line="220" selection-end-line="220" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#9;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/advies.php">
+        <entry file="file://$PROJECT_DIR$/elements/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="197" column="108" selection-start-line="197" selection-start-column="108" selection-end-line="197" selection-end-column="108" />
+            <state relative-caret-position="597">
+              <caret line="197" column="311" lean-forward="true" selection-start-line="197" selection-start-column="311" selection-end-line="197" selection-end-column="311" />
             </state>
           </provider>
         </entry>
@@ -106,7 +88,6 @@
         <option value="$PROJECT_DIR$/privacy-plugin/index.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/cookiebeleid.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/algemene-voorwaarden.php" />
-        <option value="$PROJECT_DIR$/elements/footer.php" />
         <option value="$PROJECT_DIR$/materialen.php" />
         <option value="$PROJECT_DIR$/kleur-en-verf-advies.php" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -116,6 +97,7 @@
         <option value="$PROJECT_DIR$/services.php" />
         <option value="$PROJECT_DIR$/over-ons.php" />
         <option value="$PROJECT_DIR$/advies.php" />
+        <option value="$PROJECT_DIR$/elements/footer.php" />
       </list>
     </option>
   </component>
@@ -147,6 +129,11 @@
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
               <item name="elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
+              <item name="privacy-plugin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
@@ -206,7 +193,8 @@
       <workItem from="1608374345292" duration="1576000" />
       <workItem from="1608542516598" duration="594000" />
       <workItem from="1608555319411" duration="12398000" />
-      <workItem from="1608638709210" duration="1610000" />
+      <workItem from="1608638709210" duration="1724000" />
+      <workItem from="1609152584626" duration="1572000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608028350699</created>
@@ -334,17 +322,24 @@
       <option name="project" value="LOCAL" />
       <updated>1608639964614</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Readme geupdate, over ons, advies, services hebben bij de sub koppen een kleinere verf streep.">
+      <created>1608640430811</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608640430811</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82542000" />
+    <option name="totallyTimeSpent" value="84228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29418105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29903018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -404,7 +399,8 @@
     <MESSAGE value="Ikram header link aangepast" />
     <MESSAGE value="SEO meta toegevoegd" />
     <MESSAGE value="html icons op index &amp; over-ons aangepast naar passende icons." />
-    <option name="LAST_COMMIT_MESSAGE" value="html icons op index &amp; over-ons aangepast naar passende icons." />
+    <MESSAGE value="Readme geupdate, over ons, advies, services hebben bij de sub koppen een kleinere verf streep." />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme geupdate, over ons, advies, services hebben bij de sub koppen een kleinere verf streep." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-nonprofit.html" />
@@ -577,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="156" column="169" selection-start-line="156" selection-start-column="169" selection-end-line="156" selection-end-column="169" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/font-icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="730">
@@ -595,13 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kleur-en-verf-advies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -641,7 +623,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="596">
+          <first_editor relative-caret-position="612">
             <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           </first_editor>
           <second_editor />
@@ -650,22 +632,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/services.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1870">
+        <state relative-caret-position="1292">
           <caret line="76" column="103" selection-start-line="76" selection-start-column="103" selection-end-line="76" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/over-ons.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
+        <state relative-caret-position="2703">
           <caret line="159" column="103" selection-start-line="159" selection-start-column="103" selection-end-line="159" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kleur-en-verf-advies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="103" column="54" lean-forward="true" selection-start-line="103" selection-start-column="54" selection-end-line="103" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/advies.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="197" column="108" selection-start-line="197" selection-start-column="108" selection-end-line="197" selection-end-column="108" />
+        <state relative-caret-position="1833">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#5;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#9;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="197" column="311" lean-forward="true" selection-start-line="197" selection-start-column="311" selection-end-line="197" selection-end-column="311" />
         </state>
       </provider>
     </entry>

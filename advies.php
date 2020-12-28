@@ -184,8 +184,9 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                         </div>
                     </div>
                 </div>
+                <div id="kleur"></div>
             </div>
-            <div id="kleur"></div>
+
 
             <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
@@ -200,21 +201,23 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                         </div>
                         <div class="col-lg-6">
                             <p>
+                                Kleuren spelen een belangrijke rol in ons dagelijkse leven. Ze hebben invloed op onze stemming, ze prikkelen onze zintuigen en ze bepalen voor een groot deel of we iets mooi vinden of niet.
                             </p>
                             <p>
+                                Bij Interieur By Erdem bent u aan het juiste adres voor kleuradvies op maat. Wij begrijpen wat kleuren kunnen betekenen voor uw sfeer in huis, en daarmee uw dagelijkse gemoedstoestand.
                             </p>
                             <p>
+                                Kom gerust eens langs om de mogelijkheden voor uw inrichting te bespreken!
                             </p>
                         </div>
                         <div class="col-lg-6">
-                            <p>
-                            </p>
+                            <img style="height:300px; width:auto;" src="elements/vg-images/Verfwinkel-VG-Wonen-Breskens-101-1024x683.jpg" alt="Verf tegels">
                         </div>
                     </div>
+                    <div id="materialen"><br><br></div>
                 </div>
             </div>
 
-            <div id="materialen"></div>
 
             <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
@@ -228,22 +231,24 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <p>
-                            </p>
-                            <p>
-                            </p>
-                            <p>
-                            </p>
+                            <img style="height:300px; width:auto;" src="elements/producten/raam1.JPG" alt="Vloer leggen">
                         </div>
                         <div class="col-lg-6">
                             <p>
+                                Heeft u al een idee van wat u zoal wilt gaan doen met uw interieurinrichting? Maar u weet niet goed welke materialen zouden passen? Geen probleem! Bij Interieur By Erdem kijken we graag met u mee naar de mogelijkheden voor bij u thuis.
+                            </p>
+                            <p>
+                                Wij hebben een breed scala aan materialen en oplossingen voor een breed assortiment aan producten. We kijken graag gezamenlijk met u mee naar wat u in gedachte heeft, om zo tot een passend interieur te komen.
+                            </p>
+                            <p>
+                                Schroom niet en vraag naar al onze mogelijkheden!
                             </p>
                         </div>
                     </div>
+                    <div id="advies"><br><br></div>
                 </div>
             </div>
 
-            <div id="advies"></div>
 
             <div class="section m-0 bg-transparent pt-0">
                 <div class="container clearfix">
@@ -258,15 +263,17 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                         </div>
                         <div class="col-lg-6">
                             <p>
+                                In veel gevallen komt het voor dat voor uw woonwensen een flexibele oplossing is vereist. Ook zonder de noodzaak voor een flexibele oplossing is het natuurlijk belangrijk om ervoor te zorgen dat alle aankleding vakkundig en duurzaam geplaatst wordt.
                             </p>
                             <p>
+                                Bij Interieur By Erdem kijken we graag mee naar de plaatsing van bepaalde artikelen voor in uw woning. Een correcte plaatsing kan immers voor een langere levensduur zorgen en zorgt voor een naadloze afwerking binnenshuis.
                             </p>
                             <p>
+                                Onze specialisten helpen u graag met het plaatsen van om het even wat u vindt in onze winkel!
                             </p>
                         </div>
                         <div class="col-lg-6">
-                            <p>
-                            </p>
+                            <img style="height:300px; width:auto;" src="elements/slider/13.jpg" alt="Vloer leggen">
                         </div>
                     </div>
                 </div>

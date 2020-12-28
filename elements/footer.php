@@ -195,7 +195,7 @@
 
                 <div class="col-12 col-lg-auto text-center text-lg-right">
                     <div class="copyrights-menu copyright-links mb-0">
-                        <a href="index.php">Home</a>/<a href="advies.php">Advies</a>/<a href="kleur-en-verf-advies.php">Kleur & Verf Advies</a>/<a href="materialen.php">Materialen & Producten</a>/<a href="services.php">Services</a>/<a href="over-ons.php">Over Ons</a>/<a href="contact.php">Contact</a>
+                        <a href="index.php">Home</a>/<a href="advies.php">Advies</a>/<a href="kleur-en-verf-advies.php">Kleur & Verf Advies</a>/<a href="materialen.php">Materialen & Producten</a>/<a href="services.php">Services</a>/<a href="over-ons.php">Over Ons</a>/<a href="contact.php">Contact</a>/<a href="privacy-plugin/index.php">Privacy</a>
                     </div>
                 </div>
             </div>
