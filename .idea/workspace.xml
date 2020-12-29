@@ -6,8 +6,294 @@
       <change beforePath="$PROJECT_DIR$/advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/advies.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/app-landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/article.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/barber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/beauty-kit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/beauty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/bike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/burger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/business.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/cafe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/cleaner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/conference.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/construction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/course.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/covid-care.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/coworking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/crowdfunding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/ecommerce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/et-line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/font-icons(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/font-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/footer-widget-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/forum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/freelancer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/functions.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/gym.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/headphones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/hostel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/hosting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/interior-design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/jquery.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/media-agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/medical-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/medical.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/modern-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/movers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/nonprofit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/pet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/photographer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/photography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/plugins.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/real-estate1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/recipes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/restaurant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/resume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/seo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/shop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/spa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/store.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/writer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/xmas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/yoga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/about/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/grid/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/cause/page-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/app-landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/article.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/barber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/beauty-kit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/beauty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/bike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/burger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/business.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/cafe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/cleaner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/conference.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/construction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/course.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/covid-care.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/coworking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/crowdfunding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/ecommerce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/et-line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/font-icons(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/font-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/footer-widget-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/forum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/freelancer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/functions.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/gym.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/headphones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/hostel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/hosting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/interior-design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/jquery.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/media-agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/medical-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/medical.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/modern-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/movers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/nonprofit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/pet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/photographer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/photography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/plugins.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/real-estate1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/recipes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/restaurant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/resume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/seo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/shop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/spa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/store.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/writer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/xmas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ Canvas_files - kopie/yoga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/app-landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/article.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/barber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/beauty-kit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/beauty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/bike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/burger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/business.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/cafe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/cleaner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/conference.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/construction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/course.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/covid-care.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/coworking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/crowdfunding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/ecommerce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/et-line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/font-icons(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/font-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/footer-widget-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/forum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/freelancer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/functions.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/gym.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/headphones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/hostel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/hosting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/interior-design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/jquery.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/landing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/media-agency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/medical-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/medical.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/modern-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/movers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/music.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/nonprofit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/pet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/photographer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/photography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/plugins.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/real-estate1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/recipes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/restaurant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/resume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/seo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/shop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/spa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/store.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/writer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/xmas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/icons/Icons _ paint_files/yoga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/others/footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/slider/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/slider/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/nonprofit/images/volunteers/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/achtergrond/achtergrond1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_64x64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/footer-scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/footer-scripts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elements/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/head.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elements/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/elements/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8935.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_8937.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/IMG_9033.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/behang1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/behang4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/gordijn1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/kleurStaal1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/kwast.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/raam2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/raam3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/raam5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/verf1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/verf2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/verf4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/verf5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/vloer1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/vloer2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/vloer3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/producten/vloer4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/Ikram-achtergrond.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/advies1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/materiaal1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/over-ons1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/pexels-ksenia-chernaya-5691631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/slider/pexels-ksenia-chernaya-5691680 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/Raamsticker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-109-1024x683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-39-683x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-8-e1503563837339-1024x753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/groene-kleuren-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/groene-kleuren-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/roze-kleuren-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/vg-images/roze-kleuren-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kleur-en-verf-advies.php" beforeDir="false" afterPath="$PROJECT_DIR$/kleur-en-verf-advies.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/materialen.php" beforeDir="false" afterPath="$PROJECT_DIR$/materialen.php" afterDir="false" />
@@ -21,65 +307,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advies.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="295" column="14" selection-start-line="295" selection-start-column="14" selection-end-line="295" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kleur-en-verf-advies.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="148" column="14" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/materialen.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="254" column="14" selection-start-line="254" selection-start-column="14" selection-end-line="254" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#3;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5304">
-              <caret line="363" column="18" selection-start-line="363" selection-start-column="18" selection-end-line="363" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -96,6 +324,9 @@
       <find>Uur p</find>
       <find>Producten ge</find>
       <find>line</find>
+      <find>recap</find>
+      <find>behang3</find>
+      <find>behang</find>
     </findStrings>
     <replaceStrings>
       <replace>index.php</replace>
@@ -103,6 +334,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>C:\wamp64\www\interieurByErdem</dir>
+      <dir>C:\wamp64\www\interieurByErdem\elements\producten</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -116,10 +348,6 @@
         <option value="$PROJECT_DIR$/elements/logo.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/demos/nonprofit/nonprofit.css" />
-        <option value="$PROJECT_DIR$/elements/head.php" />
-        <option value="$PROJECT_DIR$/js/functions.js" />
-        <option value="$PROJECT_DIR$/elements/footer-scripts.php" />
-        <option value="$PROJECT_DIR$/include/form.php" />
         <option value="$PROJECT_DIR$/demos/nonprofit/css/fonts.css" />
         <option value="$PROJECT_DIR$/currentNavFile.php" />
         <option value="$PROJECT_DIR$/elements/model/currentNavFile.php" />
@@ -131,16 +359,20 @@
         <option value="$PROJECT_DIR$/privacy-plugin/cookiebeleid.php" />
         <option value="$PROJECT_DIR$/privacy-plugin/algemene-voorwaarden.php" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/elements/nav.php" />
-        <option value="$PROJECT_DIR$/elements/footer.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/over-ons.php" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/advies.php" />
+        <option value="$PROJECT_DIR$/js/functions.js" />
+        <option value="$PROJECT_DIR$/include/form.php" />
         <option value="$PROJECT_DIR$/kleur-en-verf-advies.php" />
-        <option value="$PROJECT_DIR$/materialen.php" />
         <option value="$PROJECT_DIR$/services.php" />
+        <option value="$PROJECT_DIR$/advies.php" />
+        <option value="$PROJECT_DIR$/elements/footer-scripts.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/elements/footer.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/materialen.php" />
+        <option value="$PROJECT_DIR$/elements/nav.php" />
+        <option value="$PROJECT_DIR$/elements/head.php" />
       </list>
     </option>
   </component>
@@ -165,17 +397,13 @@
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
               <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interieurByErdem" type="462c0819:PsiDirectoryNode" />
-              <item name="privacy-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="nonprofit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interieurByErdem" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +466,10 @@
       <workItem from="1608555319411" duration="12398000" />
       <workItem from="1608638709210" duration="1724000" />
       <workItem from="1609152584626" duration="1661000" />
-      <workItem from="1609161567522" duration="8587000" />
+      <workItem from="1609161567522" duration="8875000" />
+      <workItem from="1609234443214" duration="3777000" />
+      <workItem from="1609241804253" duration="13000" />
+      <workItem from="1609247372062" duration="5122000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608028350699</created>
@@ -380,17 +611,23 @@
       <option name="project" value="LOCAL" />
       <updated>1609154177952</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Twist lijst update - 28-12-2020">
+      <created>1609170813358</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1609170813358</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92904000" />
+    <option name="totallyTimeSpent" value="102104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30387932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31896552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -411,7 +648,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28933188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30872846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -452,282 +689,227 @@
     <MESSAGE value="html icons op index &amp; over-ons aangepast naar passende icons." />
     <MESSAGE value="Readme geupdate, over ons, advies, services hebben bij de sub koppen een kleinere verf streep." />
     <MESSAGE value="Footer &amp; advies bijgewerkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer &amp; advies bijgewerkt" />
+    <MESSAGE value="Twist lijst update - 28-12-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twist lijst update - 28-12-2020" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-nonprofit.html" />
-    <entry file="file://$PROJECT_DIR$/demo-nonprofit-about.html" />
-    <entry file="file://$PROJECT_DIR$/elements/logo.php" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/elements/model/currentNavFile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos/nonprofit/nonprofit.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_32x32.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/favicon/Interieur_By_erdem_Favicon_64x64.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../osman/js/functions.js" />
-    <entry file="file://$PROJECT_DIR$/../Package-HTML/HTML/contact-2-recaptcha.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="71" lean-forward="true" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="2168" selection-start-line="2168" selection-end-line="2168" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/footer-scripts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos/nonprofit/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3364">
-          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="15" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/vg-images/Raamsticker.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/slider/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/slider/13.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-5-1024x683.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-8-e1503563837339-1024x753.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/vg-images/groene-kleuren-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-39-683x1024.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-109-1024x683.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/elements/vg-images/Verfwinkel-VG-Wonen-Breskens-101-1024x683.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements/model/currentNavFile.php">
+    <entry file="file://$PROJECT_DIR$/elements/achtergrond/achtergrond1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements/achtergrond/achtergrond2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/slider/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/slider/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/yoga.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/volunteers/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-        </state>
+        <state relative-caret-position="-81099" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements/floating-contact.php">
+    <entry file="file://$PROJECT_DIR$/include/rs-plugin/js/addons/jquery.revslider-particle-effect-one1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/gdpr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="79" column="102" selection-start-line="79" selection-start-column="102" selection-end-line="79" selection-end-column="102" />
+        <state>
+          <caret column="18515" selection-start-column="18515" selection-end-column="18515" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#4;n#ul#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-plugin/privacy-pages/settings/db_connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-plugin/cookiebeleid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-plugin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-plugin/algemene-voorwaarden.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-plugin/privacy-pages/settings/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="7772" column="1" lean-forward="true" selection-start-line="7772" selection-start-column="1" selection-end-line="7772" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/elements/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="43" column="119" selection-start-line="43" selection-start-column="119" selection-end-line="43" selection-end-column="119" />
+        <state relative-caret-position="289">
+          <caret line="22" column="184" selection-start-line="22" selection-start-column="184" selection-end-line="22" selection-end-column="184" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/over-ons.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="201" column="83" selection-start-line="201" selection-start-column="83" selection-end-line="201" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="56" column="59" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+        <state relative-caret-position="470">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="295" column="14" selection-start-line="295" selection-start-column="14" selection-end-line="295" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kleur-en-verf-advies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="148" column="14" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/materialen.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="254" column="14" selection-start-line="254" selection-start-column="14" selection-end-line="254" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services.php">
+    <entry file="file://$PROJECT_DIR$/elements/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-204">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5304">
-          <caret line="363" column="18" selection-start-line="363" selection-start-column="18" selection-end-line="363" selection-end-column="18" />
+        <state relative-caret-position="257">
+          <caret line="349" column="50" selection-start-line="349" selection-start-column="50" selection-end-line="349" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#section#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="97" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="152" selection-start-line="39" selection-start-column="152" selection-end-line="39" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/divider-1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/divider-5.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/divider-4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/divider-3.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/divider-2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/world-map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/section-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/footer.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/event.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/others/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#128672#128843#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/medical-icons.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/Icons _ paint_files/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/home.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/help-child.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/brush.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/color-palette.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/breakfast.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/icons/assigment.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/page-title.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/grid/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/grid/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/grid/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/cause/grid/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/nonprofit/images/about/1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

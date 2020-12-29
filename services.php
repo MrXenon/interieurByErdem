@@ -167,7 +167,9 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="advies.php">
                                             <img src="demos/nonprofit/images/icons/assigment.svg" alt="Featured Icon 1" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="advies.php" class="text-dark">Advies</a></h3>
@@ -179,10 +181,12 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="kleur-en-verf-advies.php">
                                             <img src="demos/nonprofit/images/icons/color-palette.svg" alt="Featured Icon 2" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf Advies</a></h3>
+                                            <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf </a></h3>
                                             <p>Heeft u specifiek advies over de kleuren die u gebruikt of wat u nou het beste kan doen bij het schilderen van een muur.
                                                 Deze vragen en meer kunnen wij voor u beantwoorden.</p>
                                         </div>
@@ -191,7 +195,9 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="materialen.php">
                                             <img src="demos/nonprofit/images/icons/brush.svg" alt="Featured Icon 3" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="materialen.php" class="text-dark">Materialen/Producten</a></h3>
@@ -202,7 +208,9 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
                                 <div class="col-md-6">
                                     <div class="feature-box fbox-plain bg-white mx-0">
                                         <div class="fbox-media position-relative col-auto p-0 mr-4">
+                                            <a href="services.php">
                                             <img src="demos/nonprofit/images/icons/technical-support.svg" alt="Featured Icon 4" width="50">
+                                            </a>
                                         </div>
                                         <div class="fbox-content">
                                             <h3 class="nott ls0"><a href="services.php" class="text-dark">Services</a></h3>
@@ -216,13 +224,16 @@ Onze service dienst zet graag uw gekochte product voor u in elkaar.">
             </div>
         </div>
 
-        <div class="section" style="padding: 80px 0; margin: 0 0; background-color: #D7D4C8;">
-            <div class="container clearfix">
+        <div class="section" style="padding: 30px 0; margin: 0 0; background-color: #D7D4C8;">
+            <div class="container-flex clearfix">
                 <div class="row justify-content-center">
-                    <div class="col-md-7 center">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-6">
                         <div class="heading-block border-bottom-0 mb-4">
-                            <h3 class="mb-4 nott">Benieuwd naar wat Interieur By Erdem voor u kan betekenen</h3>
+                            <h3 class="mb-4 nott" style="padding-left:50px;">Benieuwd naar wat Interieur By Erdem<br> voor u kan betekenen?</h3>
                         </div>
+                    </div>
+                    <div class="col-md-4">
                         <a href="contact.php" class="btn btn-dark">Neem vrijblijvend contact op </a>
                     </div>
                 </div>

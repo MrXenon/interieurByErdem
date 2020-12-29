@@ -19,8 +19,8 @@ include 'elements/model/currentNavFile.php';
 <!-- Logo
    ============================================= -->
 <div id="logo" class="mr-lg-5 top-space">
-    <a href="index.php" class="standard-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Canvas Logo"></a>
-    <a href="index.php" class="retina-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Canvas Logo"></a>
+    <a href="index.php" class="standard-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Interieur By Erdem Logo"></a>
+    <a href="index.php" class="retina-logo" data-dark-logo="elements/logo/Interieur_By_erdem_Logo.png"><img src="elements/logo/Interieur_By_erdem_Logo.png" alt="Interieur By Erdem Logo"></a>
 </div><!-- #logo end -->
 
 <div id="primary-menu-trigger">
@@ -42,7 +42,7 @@ include 'elements/model/currentNavFile.php';
             </ul>
         </li>
         <li class="menu-item <?=getCurrent3()?>"><a class="menu-link" href="kleur-en-verf-advies.php"><div>Kleur & Verf</div></a></li>
-        <li class="menu-item <?=getCurrent4()?>"><a class="menu-link" href="materialen.php"><div>Materialen/Producten </div></a></li>
+        <li class="menu-item <?=getCurrent4()?>"><a class="menu-link" href="materialen.php"><div>Materialen & Producten </div></a></li>
         <li class="menu-item <?=getCurrent5()?>"><a class="menu-link" href="services.php"><div>Services</div></a></li>
         <li class="menu-item <?=getCurrent6()?>"><a class="menu-link" href="over-ons.php"><div>Over ons</div></a></li>
         <li class="menu-item <?=getCurrent7()?>"><a class="menu-link" href="contact.php"><div>Contact</div></a></li>

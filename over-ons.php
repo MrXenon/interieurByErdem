@@ -4,8 +4,7 @@ include 'elements/head.php'; ?>
 <!-- Document Meta tags (SEO)
 ============================================= -->
 <meta name="title" content="Over ons | Interieur By Erdem">
-<meta name="description" content="Alles wat u wilt weten over Interieur By Erdem, van advies en verf tot de producten die u nodig heeft.
-Wij vertellen hier over ons en hoe wij u met onze kennis kunnen helpen.">
+<meta name="description" content="Benieuwd naar onze geschiedenis? Alles wat u wilt weten over Interieur By Erdem, van advies, vloeren, verf tot aan de plaatsing ervan.">
 <meta name="keywords" content="Interieur over ons Erdem">
 <meta name="robots" content="index, follow">
 

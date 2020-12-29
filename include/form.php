@@ -47,7 +47,7 @@ $fromemail = array(
 ---------------------------------------------------*/
 
 // Add this only if you use reCaptcha with your Contact Forms
-$recaptcha_secret = ''; // Your reCaptcha Secret
+$recaptcha_secret = '6LcS9hgaAAAAADvn5fNDe27FSzgEGUz5DxxIwnd_'; // Your reCaptcha Secret
 
 
 /*-------------------------------------------------

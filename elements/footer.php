@@ -30,8 +30,8 @@
                                 4511 GB Breskens<br>
                                 </a>
                             </address>
-                            <abbr title="Phone Number"><strong>Telefoonnummer:</strong></abbr> <a href="+31117308069">+31 (0) 117 308 069</a><br>
-                            <abbr title="Email Address"><strong>E-mail:</strong></abbr> <a href="info@interieurbyerdem.nl">info@interieurbyerdem.nl</a>
+                            <abbr title="Phone Number"><strong>Telefoonnummer:</strong></abbr> <a href="tel:+31117308069">+31 (0) 117 308 069</a><br>
+                            <abbr title="Email Address"><strong>E-mail:</strong></abbr> <a href="mailto:info@interieurbyerdem.nl">info@interieurbyerdem.nl</a>
                         </div>
 
                     </div>
@@ -41,51 +41,16 @@
                 <div class="col-md-6 col-lg-4">
 
                     <div class="widget clearfix">
-                        <h4>Klant Reviews</h4>
-
-                        <div class="fslider testimonial no-image bg-transparent border-0 shadow-none p-0" data-animation="slide" data-arrows="false">
-                            <div class="flexslider">
-                                <div class="slider-wrap">
-                                    <div class="slide">
-                                        <div class="testi-image">
-                                            <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
-                                        </div>
-                                        <div class="testi-content">
-                                            <p>Veel keuze en zeer vriendelijk!</p>
-                                            <div class="testi-meta">
-                                                Elise van der Lijke
-                                                <span>Klant</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide">
-                                        <div class="testi-image">
-                                            <a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
-                                        </div>
-                                        <div class="testi-content">
-                                            <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                            <div class="testi-meta">
-                                                Collis Ta'eed
-                                                <span>Envato Inc.</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="slide">
-                                        <div class="testi-image">
-                                            <a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
-                                        </div>
-                                        <div class="testi-content">
-                                            <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum!</p>
-                                            <div class="testi-meta">
-                                                John Doe
-                                                <span>XYZ Inc.</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
+                        <h4>Openingstijden</h4>
+                        <p>
+                        Maandag: Gesloten<br>
+                        Dinsdag: 9:00 - 17:00<br>
+                        Woensdag: 9:00 - 12:00<br>
+                        Donderdag: 9:00 - 17:00<br>
+                        Vrijdag: 9:00 - 17:00<br>
+                        Zaterdag: 9:00 - 17:00<br>
+                        Zondag: Gesloten
+                        </p>
                     </div>
 
                     <div class="widget clearfix">

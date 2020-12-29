@@ -13,7 +13,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="SemiColonWeb" />
 
-    <link rel="icon" href="elements/favicon/Interieur_By_erdem_Favicon_64x64.png" type="image/gif" sizes="64x64">
+    <link rel="icon" href="elements/favicon/Interieur_By_erdem_Favicon_64x64.png" type="image/png" sizes="64x64">
 
     <!-- Stylesheets
     ============================================= -->

@@ -4,7 +4,7 @@ include 'elements/head.php'; ?>
 <!-- Document Meta tags (SEO)
 ============================================= -->
 <meta name="title" content="Contact | Interieur By Erdem">
-<meta name="description" content="heeft u een vraag of wilt u meer weten? Hier kunt u contact opnemen met Interieur By Erdem.">
+<meta name="description" content="heeft u een vraag of wilt u meer weten? Hier kunt u contact opnemen met Interieur By Erdem.Uw partner voor al uw woonwensen.">
 <meta name="keywords" content="Interieur contact Erdem">
 <meta name="robots" content="index, follow">
 
@@ -33,11 +33,11 @@ include 'elements/head.php'; ?>
                         <div class="container">
                             <div class="slider-caption">
                                 <div>
-                                    <h2 class="nott" data-animate="fadeInUp">CONTACT</h2>
+                                    <h2 class="nott" data-animate="fadeInUp">NEEM CONTACT MET ONS OP</h2>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/pexels-ksenia-chernaya-5691680 (1).jpg') no-repeat center center; background-size: cover;"></div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/Blinds.jpg') no-repeat center center; background-size: cover;"></div>
                     </div>
                 </div>
             </div>
@@ -111,8 +111,8 @@ include 'elements/head.php'; ?>
                                         <label for="template-contactform-service">Diensten</label>
                                         <select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
                                             <option value="">-- Selecteer --</option>
-                                            <option value="Kleur advies">Kleur advies</option>
-                                            <option value="Advies plaatsing">Advies plaatsing</option>
+                                            <option value="Kleur & verf">Kleur & verf</option>
+                                            <option value="Advies">Advies</option>
                                             <option value="Materialen / Producten">Materialen / Producten</option>
                                             <option value="Services">Services</option>
                                         </select>
@@ -132,7 +132,7 @@ include 'elements/head.php'; ?>
                                     <div class="col-12 form-group">
 
                                         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-                                        <div class="g-recaptcha" data-sitekey="6LfijgUTAAAAACPt-XfRbQszAKAJY0yZDjjhMUQT"></div>
+                                        <div class="g-recaptcha" data-sitekey="6LcS9hgaAAAAAItpD3NBrP-xxkromdpU_RXeo84-"></div>
 
                                     </div>
 
@@ -161,7 +161,7 @@ include 'elements/head.php'; ?>
                     <div class="col-sm-6 col-lg-3">
                         <div class="feature-box fbox-center fbox-bg fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><i class="icon-map-marker2"></i></a>
+                                <a target="_blank" href="https://www.google.nl/maps/place/Langeweg+43,+4511+GB+Breskens/@51.3960546,3.551225,15.5z/data=!4m5!3m4!1s0x47c4993dbbe3f487:0xd68ec4d9a4763af2!8m2!3d51.3965715!4d3.5513147"><i class="icon-map-marker2"></i></a>
                             </div>
                             <div class="fbox-content">
                                 <h3>Onze locatie
@@ -174,7 +174,7 @@ include 'elements/head.php'; ?>
                     <div class="col-sm-6 col-lg-3">
                         <div class="feature-box fbox-center fbox-bg fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><i class="icon-phone3"></i></a>
+                                <a target="_blank" href="tel:+31117308069"><i class="icon-phone3"></i></a>
                             </div>
                             <div class="fbox-content">
                                 <h3>Bel met ons<a href="tel:+31117308069"><span class="subtitle">+31<br>(0) 117 308 069</span></a></h3>
@@ -185,7 +185,7 @@ include 'elements/head.php'; ?>
                     <div class="col-sm-6 col-lg-3">
                         <div class="feature-box fbox-center fbox-bg fbox-plain">
                             <div class="fbox-icon">
-                                <a href="#"><i class="icon-mail"></i></a>
+                                <a target="_blank" href="mailto:info@interieurbyerdem.nl"><i class="icon-mail"></i></a>
                             </div>
                             <div class="fbox-content">
                                 <h3>Mail met ons<span class="subtitle"><a href="mailto:info@interieurbyerdem.nl">info@<br>interieurbyerdem.nl</a></span></h3>
@@ -196,10 +196,10 @@ include 'elements/head.php'; ?>
                     <div class="col-sm-6 col-lg-3">
                         <div class="feature-box fbox-center fbox-bg fbox-plain">
                             <div class="fbox-icon">
-                                <a href="https://www.facebook.com/vgverf"><i class="icon-facebook2"></i></a>
+                                <a target="_blank" href="https://www.facebook.com/vgverf"><i class="icon-facebook2"></i></a>
                             </div>
                             <div class="fbox-content">
-                                <h3>Volg ons op Facebook<span class="subtitle">593 Volgers</span></h3>
+                                <h3>Volg ons op Facebook<span class="subtitle"><a href="https://www.facebook.com/vgverf">''Interieur by Erdem''</a></span></h3>
                             </div>
                         </div>
                     </div>

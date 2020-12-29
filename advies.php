@@ -11,8 +11,7 @@ include 'elements/head.php'; ?>
 <!-- Document Meta tags (SEO)
 ============================================= -->
 <meta name="title" content="Advies | Interieur By Erdem">
-<meta name="description" content="Bij interieur By Erdem kunnen wij  het beste advies geven om uw interieur te realiseren.
-Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u mee helpen.">
+<meta name="description" content="Bij interieur By Erdem helpen wij onze klanten graag om op een professionele manier hun woonwensen te realiseren. Wij geven advies op elk gewenst vlak van uw woning!">
 <meta name="keywords" content="Interieur advies Erdem">
 <meta name="robots" content="index, follow">
 
@@ -42,11 +41,11 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                         <div class="container">
                             <div class="slider-caption">
                                 <div>
-                                    <h2 class="nott" data-animate="fadeInUp">KLEUR & VERF ADVIES</h2>
+                                    <h2 class="nott" data-animate="fadeInUp">ADVIES OP MAAT</h2>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/advies1.jpg') no-repeat center center; background-size: cover;"></div>
+                        <div class="swiper-slide-bg" style="background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('elements/slider/advies.jpeg') no-repeat center center; background-size: cover;"></div>
                     </div>
                 </div>
             </div>
@@ -282,13 +281,16 @@ Gaat het nu over verf, kleur het interieur zelf, dit alles en meer kunnen wij u 
                 </div>
             </div>
         </div>
-        <div class="section" style="padding: 80px 0; margin: 0 0; background-color: #D7D4C8;">
-            <div class="container clearfix">
+        <div class="section" style="padding: 30px 0; margin: 0 0; background-color: #D7D4C8;">
+            <div class="container-flex clearfix">
                 <div class="row justify-content-center">
-                    <div class="col-md-7 center">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-6">
                         <div class="heading-block border-bottom-0 mb-4">
-                            <h3 class="mb-4 nott">Benieuwd naar wat Interieur By Erdem voor u kan betekenen</h3>
+                            <h3 class="mb-4 nott" style="padding-left:50px;">Benieuwd naar wat Interieur By Erdem<br> voor u kan betekenen?</h3>
                         </div>
+                    </div>
+                    <div class="col-md-4">
                         <a href="contact.php" class="btn btn-dark">Neem vrijblijvend contact op </a>
                     </div>
                 </div>

@@ -10,9 +10,7 @@ include 'elements/head.php'; ?>
 <!-- Document Meta tags (SEO)
 ============================================= -->
 <meta name="title" content="Home | Interieur By Erdem">
-<meta name="description" content="Interieur By Erdem streeft altijd naar perfectie. Heeft u behoefte aan een nieuw interieur, hier kan Interieur By Erdem u bij helpen.
-Wij kunnen u het perfecte advies geven om uw idee te realiseren.
-Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
+<meta name="description" content="Welkom bij Interieur By Erdem, uw specialist op het gebied van wonen. U kunt bij ons terecht voor producten, advies en voor vakkundige plaatsing in uw woning.">
 <meta name="keywords" content="Interieur verf Erdem">
 <meta name="robots" content="index, follow">
 
@@ -53,7 +51,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                         <div class="container">
                             <div class="slider-caption">
                                 <div>
-                                    <h2 class="nott" data-animate="fadeInUp">Wat kunnen wij voor u doen.</h2>
+                                    <h2 class="nott" data-animate="fadeInUp">Wat kunnen wij voor u doen?</h2>
                                     <a href="services.php" data-animate="fadeInUp" data-delay="400" class="button button-rounded button-large button-light shadow nott ls0 ml-0 mt-4">Services</a>
                                 </div>
                             </div>
@@ -95,7 +93,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                         <div class="col-md-3 px-1">
                             <a href="kleur-en-verf-advies.php" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <i class="icon-line-umbrella"></i>Kleur & Verf Advies
+                                    <i class="icon-line-umbrella"></i>Kleur & Verf
                                 </div>
                             </a>
                         </div>
@@ -289,7 +287,7 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                                             </a>
                                         </div>
                                         <div class="fbox-content">
-                                            <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf Advies</a></h3>
+                                            <h3 class="nott ls0"><a href="kleur-en-verf-advies.php" class="text-dark">Kleur & Verf</a></h3>
                                             <p>Heeft u specifiek advies over de kleuren die u gebruikt of wat u nou het beste kan doen bij het schilderen van een muur.
                                                 Deze vragen en meer kunnen wij voor u beantwoorden.</p>
                                         </div>
@@ -331,12 +329,61 @@ Naast enkel advies kunnen wij u ook de bijpassende producten bieden.">
                 </div>
             </div>
 
-            <div class="section bg-transparent" style="padding: 80px 0">
+        <div class="section bg-transparent" style="padding: 80px 0">
+            <div class="container clearfix">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 center">
+                    <!--Start testimonial section-->
+                        <h2>Klant reviews</h2>
+                        <p>
+                            Heeft u ook een ervaring met ons mogen delen? <a href="#" class="btn-contact">Laat het ons weten.</a>
+                        </p>
+                        <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
+                            <div class="flexslider">
+                                <div class="slider-wrap">
+                                    <div class="slide">
+                                        <div class="testi-content">
+                                            <p>Veel keuze en zeer vriendelijk!</p>
+                                            <div class="testi-meta">
+                                                Elise van der Lijke
+                                                <span>Klant</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide">
+                                        <div class="testi-content">
+                                            <p>Bedankt voor je service tijdens de verbouwing van kleedkamers van VV Groede!!</p>
+                                            <div class="testi-meta">
+                                                Edwin Hennekeij
+                                                <span>Klant</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide">
+                                        <div class="testi-content">
+                                            <p>Prima werk</p>
+                                            <div class="testi-meta">
+                                                Izaak Luteijn
+                                                <span>Klant</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End testimonial section-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+            <div class="section bg-transparent" style="padding: 0px 0">
                 <div class="container clearfix">
                     <div class="row justify-content-center">
                         <div class="col-md-7 center">
                             <div class="heading-block border-bottom-0 mb-4">
-                                <h2 class="mb-4 nott">Bij Interieur by Erdem werken we met de volgende merken</h2>
+                                <h2 class="mb-4 nott">Bij <span class="IBE-bg">Interieur by Erdem</span> werken we met de volgende merken</h2>
                             </div>
                             <div class="svg-line bottommargin-sm clearfix">
                                 <img src="demos/nonprofit/images/divider-1.svg" alt="svg divider" height="15">
