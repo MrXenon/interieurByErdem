@@ -212,9 +212,6 @@ include 'elements/head.php'; ?>
             </div>
         </div>
 
-
-
-
             <div class="clear"></div>
 
             <div class="container-fluid my-5 clearfix">
