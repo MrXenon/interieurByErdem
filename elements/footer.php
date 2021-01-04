@@ -41,16 +41,39 @@
                 <div class="col-md-6 col-lg-4">
 
                     <div class="widget clearfix">
+                        <table>
                         <h4>Openingstijden</h4>
                         <p>
-                        Maandag: Gesloten<br>
-                        Dinsdag: 9:00 - 17:00<br>
-                        Woensdag: 9:00 - 12:00<br>
-                        Donderdag: 9:00 - 17:00<br>
-                        Vrijdag: 9:00 - 17:00<br>
-                        Zaterdag: 9:00 - 17:00<br>
-                        Zondag: Gesloten
+                            <tr>
+                                <td>Maandag:</td>
+                                <td>Gesloten</td>
+                            </tr>
+                            <tr>
+                                <td>Dinsdag:</td>
+                                <td>9:00 - 17:00</td>
+                            </tr>
+                            <tr>
+                                <td>Woensdag:</td>
+                                <td>9:00 - 12:00</td>
+                            </tr>
+                            <tr>
+                                <td>Donderdag:</td>
+                                <td>9:00 - 17:00</td>
+                            </tr>
+                            <tr>
+                                <td>Vrijdag:</td>
+                                <td>9:00 - 17:00</td>
+                            </tr>
+                            <tr>
+                                <td>Zaterdag:</td>
+                                <td>9:00 - 17:00</td>
+                            </tr>
+                            <tr>
+                                <td>Zondag:</td>
+                                <td>Gesloten</td>
+                            </tr>
                         </p>
+                        </table>
                     </div>
 
                     <div class="widget clearfix">
