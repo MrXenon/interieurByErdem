@@ -50,23 +50,23 @@
                             </tr>
                             <tr>
                                 <td>Dinsdag:</td>
-                                <td>9:00 - 17:00</td>
+                                <td>9:00 - 17:00 & 13:00 - 17:00</td>
                             </tr>
                             <tr>
                                 <td>Woensdag:</td>
-                                <td>9:00 - 12:00</td>
+                                <td>9:00 - 12:00 & 13:00 - 17:00</td>
                             </tr>
                             <tr>
                                 <td>Donderdag:</td>
-                                <td>9:00 - 17:00</td>
+                                <td>9:00 - 17:00 & 13:00 - 17:00</td>
                             </tr>
                             <tr>
                                 <td>Vrijdag:</td>
-                                <td>9:00 - 17:00</td>
+                                <td>9:00 - 17:00 & 13:00 - 17:00</td>
                             </tr>
                             <tr>
                                 <td>Zaterdag:</td>
-                                <td>9:00 - 17:00</td>
+                                <td>9:00 - 17:00 & 13:00 - 17:00</td>
                             </tr>
                             <tr>
                                 <td>Zondag:</td>
