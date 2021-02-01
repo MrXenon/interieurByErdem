@@ -93,7 +93,7 @@ include 'elements/head.php'; ?>
                         <div class="col-md-3 px-1">
                             <a href="kleur-en-verf-advies.php" class="card center border-left-0 border-right-0 border-top-0 border-bottom border-bottom shadow py-3 rounded-0 font-weight-semibold text-uppercase ls1">
                                 <div class="card-body">
-                                    <i class="icon-line-umbrella"></i>Kleur & Verf
+                                    <i class="icon-paint-roller"></i>Kleur & Verf
                                 </div>
                             </a>
                         </div>
@@ -333,7 +333,7 @@ include 'elements/head.php'; ?>
                     <!--Start testimonial section-->
                         <h2>Klant reviews</h2>
                         <p>
-                            Heeft u ook een ervaring met ons mogen delen? <a href="#" class="btn-contact">Laat het ons weten.</a>
+                            Heeft u ook een ervaring met ons mogen delen? <a href="#" class="btn-contact">Dit vinden onze klanten van Interieur by Erdem.</a>
                         </p>
                         <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
                             <div class="flexslider">
