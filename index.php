@@ -333,7 +333,7 @@ include 'elements/head.php'; ?>
                     <!--Start testimonial section-->
                         <h2>Klant reviews</h2>
                         <p>
-                            Heeft u ook een ervaring met ons mogen delen? <a href="#" class="btn-contact">Dit vinden onze klanten van Interieur by Erdem.</a>
+                            Dit vinden onze klanten van <a href="#" class="btn-contact">Interieur by Erdem.</a>
                         </p>
                         <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
                             <div class="flexslider">
