@@ -196,6 +196,7 @@ include 'elements/head.php'; ?>
                     </div>
                 </div>
             </div>
+            <?php include 'cta.php'; ?>
         </section><!-- #content end -->
 
         <?php
