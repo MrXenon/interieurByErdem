@@ -3089,9 +3089,13 @@ html[xmlns] .slider-wrap {
 }
 
 #header-wrap {
-	position: relative;
+	position: fixed;
 	background-color: #FFF;
 	width: 100%;
+	z-index: 299;
+	top: 0; 
+	height: auto;
+	box-shadow: 0 0 10px rgb(0 0 0 / 10%);
 }
 
 .header-wrap-clone {
@@ -16523,3 +16527,12 @@ label.checkbox { padding-left: 20px; }
 	animation-name: fadeOutUpSmall;
 }
 
+/* CODE ADDED BY SAM TIEMAN*/
+
+@media screen and (max-width: 992px) {
+	.section {
+		margin: 10 !important;
+		padding: 10 !important;
+}
+
+ 
