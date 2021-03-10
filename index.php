@@ -138,7 +138,7 @@ include 'elements/head.php'; ?>
                             </div>
                         </div>
                         <div class="row mt-5 col-mb-50 mb-0">
-                            <div class="col-md-4">
+                            <div class="col-md-4 refit">
                                 <div class="feature-box flex-column pl-0">
                                     <div class="fbox-media position-relative">
                                         <img src="demos/nonprofit/images/icons/paint-bucket.svg" alt="Featured Icon" width="60" class="mb-3">
@@ -155,7 +155,7 @@ include 'elements/head.php'; ?>
                                 </div>
                             </div>
 
-                            <div class="col-md-4">
+                            <div class="col-md-4 refit">
                                 <div class="feature-box flex-column pl-0">
                                     <div class="fbox-media position-relative">
                                         <img src="demos/nonprofit/images/icons/social-care.svg" alt="Featured Icon" width="60" class="mb-3">
@@ -174,7 +174,7 @@ include 'elements/head.php'; ?>
                                 </div>
                             </div>
 
-                            <div class="col-md-4">
+                            <div class="col-md-4 refit">
                                 <div class="feature-box flex-column pl-0">
                                     <div class="fbox-media position-relative">
                                         <img src="demos/nonprofit/images/icons/shop.svg" alt="Featured Icon" width="60" class="mb-3">
