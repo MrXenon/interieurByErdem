@@ -16534,6 +16534,17 @@ label.checkbox { padding-left: 20px; }
 }
 }
 
+/*Copyright regel kleur, tekst font & kleur.*/
+span.dynamisch {
+	background-color: red;
+	border-radius: 3px;
+	padding-right:10px;
+	padding-left:10px;
+	color: #fff;
+	text-transform:uppercase;
+	font-family: sans-serif;
+  }
+
 
 /* CODE ADDED BY SAM TIEMAN*/
 

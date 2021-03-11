@@ -143,7 +143,7 @@
             <div class="row justify-content-between">
                 <div class="col-12 col-lg-auto text-center text-lg-left">
                     <span class='copyright'>Gemaakt met veel ❤ en ☕ door <a href='https://3dynamisch.nl/' target='_blank'>
-                            3Dynamisch © <?= date('Y') ?></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <span class="dynamisch">3Dynamisch</span> © <?= date('Y') ?></a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href='https://www.instagram.com/3dynamisch/' target='_blank'>
                             <i class='icon-instagram' style='font-size: 18px;'></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href='https://nl-nl.facebook.com/3dynamisch/' target='_blank'><i class='icon-facebook' style='font-size: 18px;'>
